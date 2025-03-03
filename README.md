@@ -43,50 +43,19 @@ node html-to-pdf-puppeteer.js
 
 ## Button Interface
 
-For easier use, we provide a simple HTML interface to access core features:
+For easier use, we provide a simple HTML interface to access core features. To use it:
 
-```html
-<!DOCTYPE html>
-<html>
-<head>
-    <title>PDF Generator Interface</title>
-    <style>
-        .button {
-            padding: 15px 30px;
-            margin: 10px;
-            border: none;
-            border-radius: 5px;
-            background: #264653;
-            color: white;
-            cursor: pointer;
-            font-size: 16px;
-        }
-        .button:hover {
-            background: #2a9d8f;
-        }
-    </style>
-</head>
-<body>
-    <button class="button" onclick="generateHTML()">Generate HTML</button>
-    <button class="button" onclick="convertToPDF()">Convert to PDF</button>
-    <button class="button" onclick="generateAndConvert()">Generate & Convert</button>
-
-    <script>
-        function generateHTML() {
-            fetch('/generate-html', {method: 'POST'});
-        }
-        function convertToPDF() {
-            fetch('/convert-pdf', {method: 'POST'});
-        }
-        function generateAndConvert() {
-            fetch('/generate-and-convert', {method: 'POST'});
-        }
-    </script>
-</body>
-</html>
+1. Start the server:
+```bash
+node server.js
 ```
 
-Save this as `interface.html` and use it to easily trigger PDF generation.
+2. Open `interface.html` in your browser to access the buttons:
+- Generate HTML: Creates HTML files from your JSON data
+- Convert to PDF: Converts existing HTML files to PDFs
+- Generate & Convert: Does both operations in sequence
+
+The interface provides a user-friendly way to trigger PDF generation without using the command line.
 
 ## Advanced Templates
 
