@@ -1,0 +1,118 @@
+{
+  "moduleInfo": {
+    "moduleNumber": "10.00",
+    "sectionName": "Advanced Theory and Practices",
+    "moduleTitle": "Advanced Theory and Practices/10 Advanced Engagement Metrics"
+  },
+  "theme": {
+    "mode": "dark"
+  },
+  "overview": {
+    "quote": "We're not clutching at straws. These metrics are really, really important.",
+    "introText": "Beyond basic engagement metrics lie deeper insights that can transform good content into viral sensations. When you understand these advanced metrics, you'll see exactly what drives audience growth and algorithm favor."
+  },
+  "keyTerms": [
+    {
+      "term": "FOLLOWER CONVERSION",
+      "definition": "The percentage of viewers who follow your account after watching your content, signaling long-term interest."
+    },
+    {
+      "term": "COMPLETED VIEW RATE",
+      "definition": "The percentage of viewers who watch your video all the way to the end, a key algorithm signal."
+    },
+    {
+      "term": "DEMOGRAPHIC TARGETING",
+      "definition": "Tailoring content to specific audience segments based on age, location, and platform analytics."
+    },
+    {
+      "term": "TRAFFIC SOURCES",
+      "definition": "The various pathways through which viewers discover your content, each with different algorithmic weight."
+    },
+    {
+      "term": "ALGORITHMIC SIGNALS",
+      "definition": "Data points platforms use to determine how widely to distribute your content to new audiences."
+    }
+  ],
+  "actionPlan": [
+    "Create a metrics dashboard for weekly analysis",
+    "Add strategic CTAs to boost follower conversion",
+    "Trim video endings to increase completion rates",
+    "Adjust posting times to match audience geography",
+    "Track which traffic sources drive your best results"
+  ],
+  "takeaways": [
+    {
+      "mainContent": {
+        "title": "Beyond Basic Metrics",
+        "text": "While saves, shares, comments and retention form the foundation, advanced metrics reveal how your content builds a sustainable audience and earns algorithm favor."
+      },
+      "summaryPoints": [
+        "Advanced metrics predict long-term growth potential",
+        "Different metrics require different optimization strategies",
+        "Algorithmic push depends on multiple signals combined"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "Building Audience Loyalty",
+        "text": "Follower conversion and traffic sources show not just if people like your content, but if they're becoming true fans who seek out everything you create."
+      },
+      "summaryPoints": [
+        "Strategic CTAs can boost followers by 10x",
+        "Profile traffic indicates deepening relationships",
+        "Consistent traffic patterns signal audience loyalty"
+      ],
+      "type": "right"
+    },
+    {
+      "mainContent": {
+        "title": "Content Satisfaction Signals",
+        "text": "Completion rates and demographics help you understand if your content fully satisfies viewers and reaches the right audience for your business goals."
+      },
+      "summaryPoints": [
+        "33% completion rate is the sweet spot for TikTok",
+        "Demographics impact both reach and monetization",
+        "Content must match viewer expectations to completion"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "Algorithm Interpretation",
+        "text": "These advanced metrics help decode how platforms evaluate your content, allowing you to create videos the algorithm naturally wants to promote."
+      },
+      "summaryPoints": [
+        "For You feed traffic above 95% indicates healthy push",
+        "Algorithm weighs different metrics for different content",
+        "Platform differences require metric-specific strategies"
+      ],
+      "type": "right"
+    }
+  ],
+  "proTips": [
+    {
+      "text": "Don't optimize for one metric at the expense of others—a video with 100% completion but no followers or shares won't grow your audience."
+    },
+    {
+      "text": "When a video underperforms, check these advanced metrics first—they often reveal fixable issues your basic metrics hide."
+    }
+  ],
+  "finalWords": {
+    "reminder": "Remember...",
+    "emphasis": "Numbers Tell Stories If You Know How To Listen",
+    "description": "These metrics aren't just statistics—they're audience feedback in disguise."
+  },
+  "tables": [
+    {
+      "title": "Metric Impact By Platform",
+      "headers": ["Metric", "TikTok", "Instagram", "YouTube"],
+      "rows": [
+        ["Follower Conversion", "Very High", "Medium", "High"],
+        ["Completion Rate", "High", "Medium", "Very High"],
+        ["Demographics", "Medium", "High", "Medium"],
+        ["Traffic Sources", "High", "Medium", "High"]
+      ]
+    }
+  ]
+}

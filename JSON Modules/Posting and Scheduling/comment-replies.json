@@ -1,0 +1,107 @@
+{
+  "moduleInfo": {
+    "moduleNumber": "02.04",
+    "sectionName": "Posting & Scheduling",
+    "moduleTitle": "Posting & Scheduling/02 P&S Founder/Comment Replies"
+  },
+  "theme": {
+    "mode": "light"
+  },
+  "overview": {
+    "quote": "Comment replies are an art - keep them playful and in-the-know, like you're ahead of every criticism.",
+    "introText": "How you respond to comments shapes your brand perception and community culture. This module shares proven strategies for responding to both supporters and critics in ways that elevate your presence and build genuine connection."
+  },
+  "keyTerms": [
+    {
+      "term": "PUBESCENT MINDSET",
+      "definition": "Approaching comment replies assuming commenters are young, helping maintain appropriate levity and emotional distance."
+    },
+    {
+      "term": "CONVERSATIONAL CATALYST",
+      "definition": "Comment replies that spark further engagement by asking questions or providing openings for additional interaction."
+    },
+    {
+      "term": "TONE CULTIVATION",
+      "definition": "Deliberately establishing your comment section's culture through the style and substance of your responses."
+    },
+    {
+      "term": "GENERIC RESPONSE TRAP",
+      "definition": "Bland, impersonal responses like 'Thanks!' that fail to build connection or showcase personality."
+    }
+  ],
+  "actionPlan": [
+    "Create a comment reply template with question prompts",
+    "Set a daily 10-minute block for comment responses",
+    "Practice 'younger sibling' mindset for difficult comments",
+    "Develop responses for your 3 most common comment types",
+    "Track which reply styles generate more conversation"
+  ],
+  "takeaways": [
+    {
+      "mainContent": {
+        "title": "The Younger Sibling Approach",
+        "text": "Imagine every commenter as a 14-year-old to maintain the right emotional tone. This mental framework helps you stay lighthearted with praise and above petty attacks, while keeping responses appropriate."
+      },
+      "summaryPoints": [
+        "Visualize commenters as younger siblings",
+        "Prevents emotional overreactions",
+        "Maintains appropriate tone consistently",
+        "Works for both positive and negative comments"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "Balanced Response Strategy",
+        "text": "Reply to both positive and negative comments to show confidence and authenticity. When creating viral content, expect 30-40% negative reactions - these provide opportunities to demonstrate your character."
+      },
+      "summaryPoints": [
+        "Respond to mixed comment types",
+        "Viral content naturally generates some negativity",
+        "Handling criticism shows confidence",
+        "Demonstrates you're not filtering comments"
+      ],
+      "type": "right"
+    },
+    {
+      "mainContent": {
+        "title": "Personality Over Politeness",
+        "text": "Generic 'thanks' responses waste engagement opportunities. Instead, show genuine personality, humor, and insight in every reply - even brief ones. This signals you're a real person worth following."
+      },
+      "summaryPoints": [
+        "Avoid generic VA-style responses",
+        "Inject personality into brief replies",
+        "Show humor and self-awareness",
+        "Demonstrate insider knowledge"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "The Question Technique",
+        "text": "End comment replies with questions to extend conversations. This simple technique can double or triple engagement on your comments and create deeper connections with your most engaged viewers."
+      },
+      "summaryPoints": [
+        "Ask follow-up questions in replies",
+        "Convert single interactions into conversations",
+        "Show genuine interest in viewer perspectives",
+        "Create deeper connection with engaged fans"
+      ],
+      "type": "right"
+    }
+  ],
+  "proTips": [
+    {
+      "text": "If outsourcing comment management, have your assistant create a document of 'responses you would never make' to avoid voice mismatches."
+    },
+    {
+      "text": "Remember text lacks tone - what seems witty in your head might read as arrogant or cold. Add emojis when tone could be misread."
+    }
+  ],
+  "finalWords": {
+    "reminder": "Remember...",
+    "emphasis": "Every reply shapes your community",
+    "description": "Your comment section becomes the culture you create through your responses."
+  },
+  "tables": []
+}

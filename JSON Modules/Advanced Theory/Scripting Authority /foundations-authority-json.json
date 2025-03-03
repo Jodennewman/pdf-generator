@@ -1,0 +1,107 @@
+{
+  "moduleInfo": {
+    "moduleNumber": "01.01",
+    "sectionName": "Advanced Theory and Practices",
+    "moduleTitle": "Advanced Theory and Practices/01 Foundations of Manufacturing Authority/Foundations of Building Authority Online"
+  },
+  "theme": {
+    "mode": "dark"
+  },
+  "overview": {
+    "quote": "Real authority comes from consistently delivering value and building genuine connections with your audience over time.",
+    "introText": "In this module, we'll explore the fundamental principles of building authority in the digital landscape. You'll learn how to establish credibility, connect with your audience, and position yourself as the go-to expert in your niche."
+  },
+  "keyTerms": [
+    {
+      "term": "AUTHORITY BUILDING",
+      "definition": "The process of positioning yourself as a trusted expert in your niche through consistent value delivery and authentic engagement."
+    },
+    {
+      "term": "CREDIBILITY",
+      "definition": "Evidence-based trust established through sharing relevant experience, qualifications, and proof that validates your expertise."
+    },
+    {
+      "term": "CONSISTENCY",
+      "definition": "Regular posting schedule and maintaining a coherent message, voice, and value system across all content."
+    },
+    {
+      "term": "SUPERFANS",
+      "definition": "Highly engaged followers who actively promote your content and defend you in comments, creating vital social proof."
+    },
+    {
+      "term": "AUDIENCE CONNECTION",
+      "definition": "The personal relationship formed between creator and viewer through authenticity, engagement, and value-driven content."
+    }
+  ],
+  "actionPlan": [
+    "Identify your 3 core credentials to share",
+    "Create a credibility statement for videos",
+    "Respond to 10 comments with thoughtful replies",
+    "Schedule consistent posting times",
+    "Document your top 5 learning experiences"
+  ],
+  "takeaways": [
+    {
+      "mainContent": {
+        "title": "The Foundation of Authority",
+        "text": "True authority begins with establishing credibility. Share your relevant experience and qualifications authentically, without coming across as boastful. Back up claims with concrete examples and case studies that prove your expertise."
+      },
+      "summaryPoints": [
+        "Share relevant experience authentically",
+        "Use concrete examples as proof",
+        "Balance expertise with approachability"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "Communication That Connects",
+        "text": "Speak to your camera like you're talking to a respected friend. Maintain clear speech, confident tone, and steady eye contact. This one-to-one connection makes viewers feel like they're getting personal advice from an expert they trust."
+      },
+      "summaryPoints": [
+        "Talk as if to one person, not many",
+        "Maintain eye contact with the lens",
+        "Keep speech clear and confident"
+      ],
+      "type": "right"
+    },
+    {
+      "mainContent": {
+        "title": "Community Building",
+        "text": "Respond thoughtfully to comments, showing genuine interest in your audience's thoughts. This not only builds loyalty with commenters but shows others they should engage too. Early engaged followers become your biggest promoters."
+      },
+      "summaryPoints": [
+        "Respond thoughtfully to comments",
+        "Create conversation, not just replies",
+        "Nurture relationships with early adopters"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "The Power of Consistency",
+        "text": "Choose a realistic posting schedule and stick to it. Equally important is consistency in your persona, messaging, and values. This reliability builds trust over time and makes your authority feel authentic rather than manufactured."
+      },
+      "summaryPoints": [
+        "Set a realistic posting schedule",
+        "Maintain consistent messaging",
+        "Follow through on promises made"
+      ],
+      "type": "right"
+    }
+  ],
+  "proTips": [
+    {
+      "text": "Share failures alongside successes. Vulnerability creates relatability, and showing your learning journey makes your expertise more believable."
+    },
+    {
+      "text": "When shooting videos, imagine a specific person sitting just behind your camera to make your delivery more natural and engaging."
+    }
+  ],
+  "finalWords": {
+    "reminder": "Remember...",
+    "emphasis": "Authority is built brick by brick",
+    "description": "Focus on serving your audience first, and the authority will follow naturally."
+  },
+  "tables": []
+}

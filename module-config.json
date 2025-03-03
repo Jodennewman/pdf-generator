@@ -1,0 +1,68 @@
+{
+  "moduleInfo": {
+    "courseName": "The Vertical Shortcut – Advanced Theory",
+    "moduleNumber": "2.1",
+    "moduleTitle": "Optimising for Comments",
+    "pathMain": "Advanced Theory and Practices",
+    "pathSub": "Module 2: Script Writing Mastery",
+    "pathCurrent": "Section 1: Optimising for Comments"
+  },
+  "overview": {
+    "quote": "Comments are currency",
+    "introText": "The algorithm loves comments, and viral videos always have active comment sections..."
+  },
+  "keyTerms": [
+    {
+      "term": "FOMO",
+      "definition": "Fear Of Missing Out - creating intrigue in comments..."
+    }
+  ],
+  "actionPlan": [
+    "Add a small mistake viewers will want to fix",
+    "Save your best reveal for the last 10 seconds"
+  ],
+  "takeaways": [
+    {
+      "type": "left-right",
+      "mainContent": {
+        "title": "Strategic Mistakes & FOMO",
+        "text": "Two key techniques that drive engagement..."
+      },
+      "summaryPoints": [
+        "Create correctable moments",
+        "End with strong hooks"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": "Comparison of Engagement Types",
+      "headers": ["Type", "Description", "Impact"],
+      "rows": [
+        ["Comments", "Direct viewer interaction", "High"],
+        ["Shares", "Content redistribution", "Very High"],
+        ["Saves", "Content bookmarking", "Medium"]
+      ],
+      "position": "after-takeaways"
+    }
+  ],
+  "proTips": [
+    {
+      "title": "Pro Tip",
+      "text": "Review your scripts for strategic engagement opportunities..."
+    }
+  ],
+  "finalWords": {
+    "reminder": "Remember...",
+    "emphasis": "HACK WISELY",
+    "description": "Growth hacks can boost views..."
+  },
+  "theme": {
+    "mode": "light", // or "dark"
+    "variant": "peach", // texture variant
+    "texturePaths": {
+      "header": "/textures/peach/header.jpg",
+      "body": "/textures/peach/body.jpg"
+    }
+  }
+} 

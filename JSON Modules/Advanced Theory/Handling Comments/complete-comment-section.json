@@ -1,0 +1,147 @@
+{
+  "moduleInfo": {
+    "moduleNumber": "06.00",
+    "sectionName": "Advanced Theory and Practices",
+    "moduleTitle": "Advanced Theory and Practices/06 Handling a Comment Section"
+  },
+  "theme": {
+    "mode": "dark"
+  },
+  "overview": {
+    "quote": "The comment section is not just a weird dumping ground side feature for people's opinions, it's literally the heartbeat of your relationship with your audience.",
+    "introText": "Master the art of handling, taming, and shaping your comment section. Learn when to engage, how to respond, and strategies to transform casual viewers into loyal fans through thoughtful interaction."
+  },
+  "keyTerms": [
+    {
+      "term": "ENGAGEMENT LOOP",
+      "definition": "The cycle of viewer comments and creator responses that builds community and drives algorithm performance."
+    },
+    {
+      "term": "DISARMING RESPONSE",
+      "definition": "A light-hearted, witty reply that diffuses tension without stooping to aggression or defensiveness."
+    },
+    {
+      "term": "CONVERSATION STEERING",
+      "definition": "The subtle art of guiding comment discussions in productive directions without taking strong positions."
+    },
+    {
+      "term": "INFORMATION GAPS",
+      "definition": "Strategic omissions in content that create opportunities for deeper engagement through comments."
+    },
+    {
+      "term": "COMMUNITY BUILDING",
+      "definition": "Transforming passive viewers into active participants through meaningful interaction and acknowledgment."
+    }
+  ],
+  "actionPlan": [
+    "Reply to at least 5 comments per video per platform",
+    "Respond to different comment types (praise, questions, criticism)",
+    "Use humor rather than defensiveness with negative comments",
+    "Add valuable context to information gaps when questioned",
+    "Monitor heated debates but maintain neutrality",
+    "Check comments within 1-2 hours of posting new content"
+  ],
+  "takeaways": [
+    {
+      "mainContent": {
+        "title": "The Growth Engine",
+        "text": "95% of successful clients actively engage in their comment sections. Those who don't see significantly lower reach regardless of content quality—it's the difference between views and fans."
+      },
+      "summaryPoints": [
+        "Comment engagement directly correlates with growth",
+        "Early responses set the tone for your community",
+        "Platforms reward content with active discussions"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "Mastering Negativity",
+        "text": "Most negative comments come from people having a bad day, not from genuine hatred. Light-hearted, witty responses completely disarm critics and often transform them into fans."
+      },
+      "summaryPoints": [
+        "Never match aggression with aggression",
+        "Use humor to diffuse tension instantly",
+        "Show confidence through calm responses"
+      ],
+      "type": "right"
+    },
+    {
+      "mainContent": {
+        "title": "The Art of Neutrality",
+        "text": "When debates erupt in your comments, think of yourself as a dinner party host. Guide conversations without controlling them, add context where helpful, and step back when discussions get heated."
+      },
+      "summaryPoints": [
+        "Maintain balanced perspectives",
+        "Let some debates unfold naturally",
+        "Appreciate engagement from all viewpoints"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "Strategic Information Control",
+        "text": "Short-form thrives on brevity, requiring strategic omissions. Use comments to demonstrate deeper knowledge when challenged, showing you made editorial choices rather than research mistakes."
+      },
+      "summaryPoints": [
+        "Acknowledge omissions gracefully",
+        "Showcase additional expertise in comments",
+        "Admit genuine mistakes with humor"
+      ],
+      "type": "right"
+    },
+    {
+      "mainContent": {
+        "title": "Building Loyal Defenders",
+        "text": "People you respond to early in your journey become your most loyal fans. They'll defend you in controversy, support every video, and help establish a positive culture in your comment section."
+      },
+      "summaryPoints": [
+        "Early commenters become long-term advocates",
+        "Occasional responses maintain loyalty",
+        "Fan defenders influence others' perceptions"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "The Human Connection",
+        "text": "Comments humanize you and show there's a real person behind the account. This is the perfect antidote to appearing corporate or detached, especially crucial for founders and business leaders."
+      },
+      "summaryPoints": [
+        "Personal responses establish authenticity",
+        "Interactions prove you're not just scheduling content",
+        "Relationship-building happens comment by comment"
+      ],
+      "type": "right"
+    }
+  ],
+  "proTips": [
+    {
+      "text": "For extremely vulgar comments, try 'My grandma reads these comments!' with an emoji—it's disarming and makes the commenter look immature."
+    },
+    {
+      "text": "When another creator criticizes you, comment positively on their video to break the antagonistic narrative and confuse their audience."
+    },
+    {
+      "text": "Keep a 'details bank' of cut information ready to deploy when viewers point out gaps—it shows you did thorough research."
+    }
+  ],
+  "finalWords": {
+    "reminder": "Remember...",
+    "emphasis": "The difference between views and a community is in your comments.",
+    "description": "Post your video and then own it—through thoughtful engagement in your comments."
+  },
+  "tables": [
+    {
+      "title": "Comment Response Framework",
+      "headers": ["Comment Type", "Response Approach", "Example"],
+      "rows": [
+        ["Angry/Negative", "Humor & Deflection", "Thanks for the constructive feedback! My mum says the same thing."],
+        ["Debate/Discussion", "Neutral Context", "Both perspectives have merit—I've found that..."],
+        ["Information Gap", "Acknowledge & Expand", "Great catch! I also discovered [extra detail they didn't mention]."],
+        ["Praise/Support", "Genuine Appreciation", "Thanks! Comments like yours make creating worth it."],
+        ["Questions", "Clear & Helpful", "Great question! Here's what I've found works best..."]
+      ]
+    }
+  ]
+}

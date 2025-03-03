@@ -1,0 +1,107 @@
+{
+  "moduleInfo": {
+    "moduleNumber": "01.01",
+    "sectionName": "Repurposing",
+    "moduleTitle": "Repurposing/01 Repurposing Normal/Repurposing Short Form Videos"
+  },
+  "theme": {
+    "mode": "light"
+  },
+  "overview": {
+    "quote": "Steal like an artist, not like a thief.",
+    "introText": "Finding viral content in your niche is gold, but copying word-for-word is a no-go. Learn how to transform inspiration into something uniquely yours while preserving what makes the original work."
+  },
+  "keyTerms": [
+    {
+      "term": "PRE-VALIDATION",
+      "definition": "Using content that's already proven successful as inspiration, reducing the risk of your adaptation failing."
+    },
+    {
+      "term": "CURIOSITY LOOP",
+      "definition": "The question or emotion a hook creates that makes viewers need to watch until the end for resolution."
+    },
+    {
+      "term": "ETHICAL ADAPTATION",
+      "definition": "Transforming existing content with enough originality to avoid plagiarism while maintaining the core appeal."
+    },
+    {
+      "term": "HOOK PRESERVATION",
+      "definition": "Maintaining the essence of what made the original hook successful while adapting it to your style and voice."
+    }
+  ],
+  "actionPlan": [
+    "Find a viral video in your niche to analyze",
+    "Identify what questions/emotions the hook creates",
+    "Rewrite the hook in your own voice/style",
+    "Analyze comments for audience insights",
+    "Create your script with your unique perspective"
+  ],
+  "takeaways": [
+    {
+      "mainContent": {
+        "title": "Hook Transformation",
+        "text": "When repurposing, the hook often drives virality. Try rewording it while preserving the core questions or emotions it raises. If truly unchangeable, focus on making visuals and delivery uniquely yours."
+      },
+      "summaryPoints": [
+        "Identify what questions the hook raises",
+        "Consider converting questions to statements",
+        "Look at top comments for insight",
+        "Focus on visual differentiation if verbal hook must stay similar"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "Making It Yours",
+        "text": "For the script, ask yourself: What interests you about this topic? What's your perspective? This isn't just about avoiding plagiarism—it's about bringing your unique value that the original creator couldn't."
+      },
+      "summaryPoints": [
+        "What made you laugh or think?",
+        "What would you add or remove?",
+        "How would you explain it to a friend?",
+        "What elements reflect your personal brand?"
+      ],
+      "type": "right"
+    },
+    {
+      "mainContent": {
+        "title": "The Comments Gold Mine",
+        "text": "The original video's comments offer invaluable insight into what resonated with viewers. Top comments often reveal emotional triggers you can amplify in your version."
+      },
+      "summaryPoints": [
+        "Look for comments with thousands of likes",
+        "Identify themes in audience reactions",
+        "Spot opportunities the creator missed",
+        "Use feedback to strengthen your version"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "When in Doubt, Credit",
+        "text": "If you've made significant changes but still feel your content is too similar, tag the original creator in your caption. Most creators appreciate the acknowledgment and it builds goodwill in the community."
+      },
+      "summaryPoints": [
+        "Be transparent if heavily inspired",
+        "Tag original creators respectfully",
+        "Build relationships, not rivalries",
+        "Focus on your unique contribution"
+      ],
+      "type": "right"
+    }
+  ],
+  "proTips": [
+    {
+      "text": "Don't run scripts through ChatGPT for rewording—it flattens personality and often retains structure while changing meaningless words."
+    },
+    {
+      "text": "Different audiences will see your video than the original. The algorithm rarely serves identical content to the same viewers."
+    }
+  ],
+  "finalWords": {
+    "reminder": "Remember...",
+    "emphasis": "Make It Undeniably Yours",
+    "description": "Formats and topics can't be copyrighted, but your unique perspective is what makes content truly valuable."
+  },
+  "tables": []
+}

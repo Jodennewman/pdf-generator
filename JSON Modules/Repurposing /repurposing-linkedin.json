@@ -1,0 +1,119 @@
+{
+  "moduleInfo": {
+    "moduleNumber": "01.03",
+    "sectionName": "Repurposing",
+    "moduleTitle": "Repurposing/01 Repurposing Normal/Repurposing from LinkedIn"
+  },
+  "theme": {
+    "mode": "light"
+  },
+  "overview": {
+    "quote": "The content that built your LinkedIn can build your TikTok too.",
+    "introText": "Your LinkedIn posts aren't just for professionals anymore. Learn how to transform that corporate content into engaging short-form videos without sacrificing your core message or authority."
+  },
+  "keyTerms": [
+    {
+      "term": "PLATFORM PSYCHOLOGY",
+      "definition": "How users' mindsets and expectations differ between platforms, requiring content adaptation to match each environment."
+    },
+    {
+      "term": "LINKEDIN DETOXIFICATION",
+      "definition": "The process of removing corporate language and formality from LinkedIn content to make it suitable for short-form platforms."
+    },
+    {
+      "term": "CROSS-PLATFORM MESSAGING",
+      "definition": "Maintaining consistent brand messaging while adapting delivery style to suit different platform audiences."
+    },
+    {
+      "term": "CONTENT LEVERAGE",
+      "definition": "Maximizing the return on your content creation efforts by adapting existing material for multiple platforms."
+    }
+  ],
+  "actionPlan": [
+    "Select a high-performing LinkedIn post",
+    "Identify its core message and emotional hook",
+    "Rewrite in conversational, spoken language",
+    "Add personality elements missing from the original",
+    "Film in a casual setting, not a corporate environment"
+  ],
+  "takeaways": [
+    {
+      "mainContent": {
+        "title": "The Platform Gap",
+        "text": "People on short-form platforms typically reject anything that feels 'LinkedIn adjacent' (corporate, formal, impersonal). Your content needs to appear completely transformed while preserving the core value."
+      },
+      "summaryPoints": [
+        "Short-form audiences reject corporate tone",
+        "Same message requires different delivery",
+        "Authenticity beats professionalism here",
+        "Pre-validated content still needs adaptation"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "Listicle Transformation",
+        "text": "LinkedIn listicles (5 tips, 7 truths, etc.) convert well to short-form but require personality injection. The concise, almost rude efficiency of LinkedIn writing must become conversational and emotionally engaging."
+      },
+      "summaryPoints": [
+        "Lists provide natural progression",
+        "Add stories and examples",
+        "Inject personality and emotion",
+        "Break formal language patterns"
+      ],
+      "type": "right"
+    },
+    {
+      "mainContent": {
+        "title": "Voice & Personality",
+        "text": "LinkedIn writing is often devoid of personality to appeal broadly. For short-form, you must reintroduce your unique voice, adding humor, personal examples, or specific viewpoints that make it distinctly yours."
+      },
+      "summaryPoints": [
+        "LinkedIn strips personality, short-form demands it",
+        "Add your specific experiences",
+        "Include occasional humor where appropriate",
+        "Show emotions LinkedIn posts hide"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "Visual Reinvention",
+        "text": "Beyond rewriting, visually distance your short-form content from LinkedIn. Film in casual settings rather than offices, use dynamic movements instead of static poses, and incorporate visual elements that feel native to TikTok or Instagram."
+      },
+      "summaryPoints": [
+        "Avoid anything that looks 'corporate'",
+        "Use platform-native visual elements",
+        "Incorporate movement and energy",
+        "Match visuals to platform expectations"
+      ],
+      "type": "right"
+    }
+  ],
+  "proTips": [
+    {
+      "text": "For founders, this transformation skill is crucial—your audience wants your expertise but rejects corporate packaging on short-form."
+    },
+    {
+      "text": "Review top-performing creator profiles in your niche to see how they present professional insights in platform-friendly ways."
+    }
+  ],
+  "finalWords": {
+    "reminder": "Remember...",
+    "emphasis": "Same Message, New Packaging",
+    "description": "Your expertise doesn't change—only how you present it to match the platform."
+  },
+  "tables": [
+    {
+      "title": "Platform Adaptation Comparison",
+      "headers": ["Element", "LinkedIn", "Short-Form"],
+      "rows": [
+        ["Language", "Formal, concise", "Casual, conversational"],
+        ["Visuals", "Professional, static", "Authentic, dynamic"],
+        ["Tone", "Authoritative", "Relatable expert"],
+        ["Hooks", "Value proposition", "Curiosity/emotion"],
+        ["Formatting", "Written structure", "Spoken flow"]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "moduleInfo": {
+    "moduleNumber": "01",
+    "moduleTitle": "Basic Theory and Practices/01 The Big Picture on Short Form/Introduction to Short Form",
+    "sectionName": "Basic Theory and Practices"
+  },
+  "theme": {
+    "mode": "light"
+  },
+  "overview": {
+    "quote": "Short-form content is not just about being brief - it's about being impactful.",
+    "introText": "Welcome to your journey into short-form content creation. We'll explore how to make every second count in your videos."
+  },
+  "keyTerms": [
+    {
+      "term": "HOOK",
+      "definition": "The first 3 seconds of your content that grabs viewer attention and stops the scroll."
+    },
+    {
+      "term": "RETENTION",
+      "definition": "The percentage of your video that viewers watch before leaving."
+    },
+    {
+      "term": "SCROLL VELOCITY",
+      "definition": "The speed at which users typically scroll through their feed."
+    }
+  ],
+  "actionPlan": [
+    "Watch 10 viral short-form videos",
+    "Identify hooks in each video",
+    "Write 3 hook ideas for your content",
+    "Film your first short-form video"
+  ],
+  "takeaways": [
+    {
+      "mainContent": {
+        "title": "The Power of Short Form",
+        "text": "Short-form content allows you to reach more people with less production time, making it perfect for consistent content creation."
+      },
+      "summaryPoints": [
+        "Higher engagement rates",
+        "Lower production costs",
+        "Faster audience growth"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "Platform Dynamics",
+        "text": "Each platform has unique characteristics that affect how your content performs and reaches your audience."
+      },
+      "summaryPoints": [
+        "Algorithm preferences",
+        "Audience behaviors",
+        "Content requirements"
+      ],
+      "type": "right"
+    }
+  ],
+  "proTips": [
+    {
+      "text": "Film in portrait mode at 9:16 ratio to maximize screen real estate across all platforms."
+    },
+    {
+      "text": "Keep your most valuable content in the middle 70% of the screen for better cross-platform compatibility."
+    }
+  ],
+  "finalWords": {
+    "reminder": "Remember...",
+    "emphasis": "Start small, stay consistent",
+    "description": "Your first videos won't be perfect, but each one gets you closer to mastery."
+  },
+  "tables": [
+    {
+      "title": "Platform Comparison",
+      "headers": ["Feature", "TikTok", "Instagram", "YouTube"],
+      "rows": [
+        ["Length", "60s", "60s", "60s"],
+        ["Format", "9:16", "9:16", "9:16"],
+        ["Audio", "Required", "Optional", "Optional"]
+      ]
+    }
+  ]
+} 

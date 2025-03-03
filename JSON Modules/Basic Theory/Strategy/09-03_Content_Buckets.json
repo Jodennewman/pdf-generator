@@ -1,0 +1,117 @@
+{
+  "moduleInfo": {
+    "moduleNumber": "09.03",
+    "sectionName": "Basic Theory and Practices",
+    "moduleTitle": "Basic Theory and Practices/09 Strategy Pillars Topics Buckets/Content Buckets"
+  },
+  "theme": {
+    "mode": "light"
+  },
+  "overview": {
+    "quote": "Buckets are your shows – they're the repeatable formats that viewers come to know you for before they even know your name.",
+    "introText": "Content buckets are your repeatable video formats that combine your pillars and topics into recognizable 'shows' on your channel. They're the templates that make content creation easier and help viewers understand what to expect."
+  },
+  "keyTerms": [
+    {
+      "term": "CONTENT BUCKETS",
+      "definition": "Repeatable video formats that combine your pillars, topics, and pre-validated framing into recognizable content types."
+    },
+    {
+      "term": "PRE-VALIDATED FRAMING",
+      "definition": "Proven content structures (like listicles or reactions) that audiences already respond well to on social platforms."
+    },
+    {
+      "term": "ALGORITHMIC VELOCITY",
+      "definition": "The momentum your content gains when the platform understands your niche and consistently shows your videos to the right audience."
+    },
+    {
+      "term": "70-20-10 RULE",
+      "definition": "Content distribution strategy with 70% broad appeal content, 20% focused content, and 10% niche but high-converting content."
+    }
+  ],
+  "actionPlan": [
+    "Combine pillars with proven content formats",
+    "Create 3-5 test buckets to try",
+    "Test each bucket with multiple videos",
+    "Analyze which buckets get engagement",
+    "Refine successful buckets based on data"
+  ],
+  "takeaways": [
+    {
+      "mainContent": {
+        "title": "The Bucket Formula",
+        "text": "Content buckets = Pillars × Topics ÷ Pre-validated Framing. Combine what you want to say with formats viewers already love. Like a fitness coach using listicles for nutrition hacks or comparison videos for gym wear trends."
+      },
+      "summaryPoints": [
+        "Start with your pillar and topic",
+        "Add a proven content format",
+        "Create a repeatable template",
+        "Test and iterate based on performance"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "The 70-20-10 Strategy",
+        "text": "Balance your content with 70% broad/entertaining videos to attract viewers, 20% focused/educational content to build trust, and 10% niche content for conversions. This creates a natural funnel for your audience."
+      },
+      "summaryPoints": [
+        "70% broad appeal for growth",
+        "20% focused for trust-building",
+        "10% niche for conversions",
+        "Adjust ratios as your account grows"
+      ],
+      "type": "right"
+    },
+    {
+      "mainContent": {
+        "title": "Algorithmic Advantages",
+        "text": "Consistent buckets help the algorithm understand your content and recommend it to the right viewers. When someone engages with two videos in the same bucket, they're likely to be shown more, creating a pathway to following you."
+      },
+      "summaryPoints": [
+        "Helps algorithm categorize your content",
+        "Creates consistency for viewers",
+        "Leads to higher follower conversion",
+        "Builds recognition before your name does"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "Testing & Iteration",
+        "text": "Try each bucket multiple times before deciding if it works. Even good ideas need refinement. Look at engagement metrics, comments, and shares to understand what resonates, then iterate to make your buckets even stronger."
+      },
+      "summaryPoints": [
+        "Give each bucket multiple attempts",
+        "Use data to guide refinements",
+        "Don't be afraid to abandon what fails",
+        "Double down on what works"
+      ],
+      "type": "right"
+    }
+  ],
+  "proTips": [
+    {
+      "text": "The first few videos in a bucket rarely hit – the algorithm needs time to learn who to show them to. Patience pays off!"
+    },
+    {
+      "text": "Save your strongest calls-to-action for your 10% niche content where viewers are already highly engaged with your message."
+    }
+  ],
+  "finalWords": {
+    "reminder": "Remember...",
+    "emphasis": "Consistency creates recognition",
+    "description": "Viewers follow patterns before they follow people!"
+  },
+  "tables": [
+    {
+      "title": "Content Distribution Strategy",
+      "headers": ["Content Type", "Percentage", "Purpose", "CTA Focus"],
+      "rows": [
+        ["Broad", "70%", "Growth", "Follow only"],
+        ["Focused", "20%", "Trust", "Value-add offers"],
+        ["Niche", "10%", "Convert", "Direct selling"]
+      ]
+    }
+  ]
+}

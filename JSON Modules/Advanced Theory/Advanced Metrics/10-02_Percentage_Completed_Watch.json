@@ -1,0 +1,103 @@
+{
+  "moduleInfo": {
+    "moduleNumber": "10.02",
+    "sectionName": "Advanced Theory and Practices",
+    "moduleTitle": "Advanced Theory and Practices/10 Advanced Engagement Metrics/Percentage Completed Watch"
+  },
+  "theme": {
+    "mode": "dark"
+  },
+  "overview": {
+    "quote": "To the algorithm, completion shows your video is actually highly satisfying.",
+    "introText": "While average watch time (retention) has been king, platforms now prioritize something even more meaningful - how many viewers actually finish your videos. This seemingly subtle shift can make or break your algorithmic performance."
+  },
+  "keyTerms": [
+    {
+      "term": "COMPLETED VIEW RATE",
+      "definition": "The percentage of viewers who watch your video all the way to the end."
+    },
+    {
+      "term": "ALGORITHMIC SATISFACTION",
+      "definition": "How platforms gauge whether viewers felt their time was well-spent with your content."
+    },
+    {
+      "term": "RETENTION DROP",
+      "definition": "The point where viewers leave your video, often when curiosity is satisfied or interest wanes."
+    },
+    {
+      "term": "CONTENT SATIATION",
+      "definition": "When viewers feel they've received the value promised, leaving them satisfied with the experience."
+    }
+  ],
+  "actionPlan": [
+    "Cut all fluff from the end of your videos",
+    "Identify your video's natural end point",
+    "Try a 90-second video length on TikTok",
+    "Aim for 33% completion rate as benchmark",
+    "Monitor platform differences in optimal length"
+  ],
+  "takeaways": [
+    {
+      "mainContent": {
+        "title": "The Algorithm Shift",
+        "text": "Platforms realized that average watch time could be gamed with long videos that had early drop-offs. Now, they prioritize the percentage of people who watch to the end as a stronger signal of content quality."
+      },
+      "summaryPoints": [
+        "Completion rate > average watch time",
+        "Can't be manipulated with video length",
+        "Shows viewer satisfaction"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "The 33% Sweet Spot",
+        "text": "For videos between 80-170 seconds, aim for at least 33% of viewers completing the full video. This signals to algorithms that your content provides genuine satisfaction rather than initial curiosity followed by disappointment."
+      },
+      "summaryPoints": [
+        "Higher rates = stronger algorithmic push",
+        "Indicates viewers got promised value",
+        "Balance with optimal video length"
+      ],
+      "type": "right"
+    },
+    {
+      "mainContent": {
+        "title": "Platform Length Strategies",
+        "text": "TikTok prefers videos over 60 seconds (with creator fund requiring 60+ seconds), while Instagram can reward ultra-short clips. YouTube Shorts sits somewhere in between, but all prioritize completion rates."
+      },
+      "summaryPoints": [
+        "TikTok: 60-170 seconds ideal",
+        "Instagram: Can go as short as 5-15 seconds",
+        "YouTube: Minimum 15 seconds recommended"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "Ruthless Editing Strategy",
+        "text": "Cut your video at the exact moment your main point or punchline lands. Avoid thanking viewers, summarizing, or adding any content after the hook is satisfied - these all reduce completion rates significantly."
+      },
+      "summaryPoints": [
+        "End immediately after value delivery",
+        "No outros or summaries",
+        "Leave viewers wanting slightly more"
+      ],
+      "type": "right"
+    }
+  ],
+  "proTips": [
+    {
+      "text": "The ideal completion moment is almost mid-sentence of your conclusion - viewers stay to hear the end but don't get time to scroll away."
+    },
+    {
+      "text": "If your completed view rate drops below 20%, try removing the last 3-5 seconds of your video and see if performance improves."
+    }
+  ],
+  "finalWords": {
+    "reminder": "Remember...",
+    "emphasis": "Completion breeds connection",
+    "description": "When viewers finish your videos, they leave with both satisfaction and curiosity for more."
+  },
+  "tables": []
+}

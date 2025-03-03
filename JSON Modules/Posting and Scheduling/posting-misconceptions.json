@@ -1,0 +1,132 @@
+{
+  "moduleInfo": {
+    "moduleNumber": "02.02",
+    "sectionName": "Posting & Scheduling",
+    "moduleTitle": "Posting & Scheduling/02 P&S Founder/Posting Misconceptions"
+  },
+  "theme": {
+    "mode": "dark"
+  },
+  "overview": {
+    "quote": "Short form content is so meritocratic - good content just does well, even if you try to hide it.",
+    "introText": "Many creators waste time on posting 'tricks' that barely matter while ignoring what truly drives success. Let's debunk common misconceptions and focus on what actually moves the needle for your content."
+  },
+  "keyTerms": [
+    {
+      "term": "MERITOCRATIC CONTENT",
+      "definition": "Content judged primarily on quality and engagement metrics rather than posting tactics or profile authority."
+    },
+    {
+      "term": "ALGORITHMIC REALITY",
+      "definition": "How platform algorithms actually work vs popular myths - prioritizing viewer retention over hashtags, timing, or other surface factors."
+    },
+    {
+      "term": "CONTENT FUNDAMENTALS",
+      "definition": "The core elements that truly determine performance: research, scripting, filming, performance, and editing quality."
+    },
+    {
+      "term": "SNAKE OIL TACTICS",
+      "definition": "Ineffective strategies sold as quick fixes (specific posting times, hashtag formulas) that distract from real improvement areas."
+    }
+  ],
+  "actionPlan": [
+    "Audit your posting process for time-wasters",
+    "Eliminate unnecessary hashtag research",
+    "Focus 80% of effort on content quality",
+    "Run controlled experiments to test assumptions",
+    "Track which videos perform well across platforms"
+  ],
+  "takeaways": [
+    {
+      "mainContent": {
+        "title": "Quality Trumps Tactics",
+        "text": "Post time, frequency, hashtags, and captions matter far less than you think. A brilliant video posted at midnight with no hashtags will still outperform mediocre content with 'perfect' posting tactics."
+      },
+      "summaryPoints": [
+        "Content quality is the primary success factor",
+        "Strong videos perform well across platforms",
+        "Tactics contribute minimally to results",
+        "Focus where real impact happens"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "Posting Schedule Reality",
+        "text": "Daily posting helps you run more experiments and build momentum faster, not because algorithms reward consistency. One exceptional weekly video can outperform seven mediocre daily ones."
+      },
+      "summaryPoints": [
+        "Post frequently to learn faster, not for algorithms",
+        "Quality drop-offs negate posting frequency benefits",
+        "Case study: 1M followers in 3 months posting 2-3x weekly",
+        "Consistency matters for habits, not algorithms"
+      ],
+      "type": "right"
+    },
+    {
+      "mainContent": {
+        "title": "Hashtags & SEO Truth",
+        "text": "Hashtags and captions primarily help with search discoverability, not algorithmic feed distribution. They're useful tools for helping people find your content through search, but minimal for viral reach."
+      },
+      "summaryPoints": [
+        "Hashtags affect search, not feed performance",
+        "Caption keywords can rank in platform searches",
+        "Example: Ranking for 'biggest creator' through caption",
+        "Most viral content succeeds independent of tags"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "The Trend Trap",
+        "text": "Chasing trends and sounds may bring temporary views but attracts the wrong audience. For authority-building, trends only work when you add substantial unique value or a clever twist."
+      },
+      "summaryPoints": [
+        "Trend-chasing attracts temporary, irrelevant audiences",
+        "Authority positioning conflicts with trend-following",
+        "Successful trend use requires adding unique value",
+        "Satirical or reflexive approaches work better"
+      ],
+      "type": "right"
+    },
+    {
+      "mainContent": {
+        "title": "Virality Is Not Luck",
+        "text": "Going viral isn't random chance - it's highly predictable and controllable. It's the culmination of skill in hook crafting, storytelling, performance, and understanding viewer psychology."
+      },
+      "summaryPoints": [
+        "Viral success is predictable, not random",
+        "Success patterns are identifiable and repeatable",
+        "Algorithms reward viewer retention, not luck",
+        "'Luck' is often unexplained skill factors"
+      ],
+      "type": "left"
+    }
+  ],
+  "proTips": [
+    {
+      "text": "YouTube is much more search-focused than other platforms, so SEO principles matter more there than on TikTok or Instagram."
+    },
+    {
+      "text": "If you do use trends, subvert expectations by adding a satirical twist that showcases your unique perspective or expertise."
+    }
+  ],
+  "finalWords": {
+    "reminder": "Remember...",
+    "emphasis": "Content quality is the algorithm",
+    "description": "Stop chasing tricks and focus where it counts - making videos people want to watch."
+  },
+  "tables": [
+    {
+      "title": "Posting Factors: Impact Reality Check",
+      "headers": ["Factor", "Perceived Impact", "Actual Impact", "Better Focus"],
+      "rows": [
+        ["Posting Time", "Critical", "Marginal", "Audience timezone"],
+        ["Hashtags", "Essential", "SEO only", "Searchable keywords"],
+        ["Daily Posting", "Algorithm boost", "Learning tool", "Sustainable quality"],
+        ["Trends/Sounds", "Visibility hack", "Temporary", "Unique perspective"],
+        ["Video Quality", "Secondary", "Primary", "Content fundamentals"]
+      ]
+    }
+  ]
+}

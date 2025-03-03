@@ -1,0 +1,107 @@
+{
+  "moduleInfo": {
+    "moduleNumber": "01.02",
+    "sectionName": "Repurposing",
+    "moduleTitle": "Repurposing/01 Repurposing Normal/Repurposing Long Form Content"
+  },
+  "theme": {
+    "mode": "light"
+  },
+  "overview": {
+    "quote": "It's easier to chip away at marble to make a statue than to build one from tiny pieces.",
+    "introText": "Long-form content is a goldmine for short-form ideas. Learn how to distill YouTube videos, podcasts, and articles into engaging short-form videos without losing their essence."
+  },
+  "keyTerms": [
+    {
+      "term": "CONTENT DISTILLATION",
+      "definition": "The process of extracting the most memorable and impactful elements from long-form content for short-form adaptation."
+    },
+    {
+      "term": "MEMORY FILTERING",
+      "definition": "Using what naturally stays in your memory after consuming content as a guide for what's most engaging to viewers."
+    },
+    {
+      "term": "PACKAGING TRANSFER",
+      "definition": "Adapting a YouTube video's thumbnail and title into effective hooks for short-form content."
+    },
+    {
+      "term": "ACTIVE RESEARCH",
+      "definition": "The process of consuming content with purpose, seeking elements that can be repurposed for your own creation."
+    }
+  ],
+  "actionPlan": [
+    "Watch a YouTube video at 2x speed without taking notes",
+    "Write what you remember - these are the key points",
+    "Transform the video's title into your verbal hook",
+    "Use thumbnail elements for your visual hook",
+    "Rewrite the core message in your natural speaking voice"
+  ],
+  "takeaways": [
+    {
+      "mainContent": {
+        "title": "The Memory Method",
+        "text": "For one-to-one video conversion, watch the long-form content at 2x speed without taking notes. Later, write what you remember - these naturally memorable points will form the foundation of your short-form script."
+      },
+      "summaryPoints": [
+        "Your memory naturally filters the fluff",
+        "Focus on what genuinely interested you",
+        "Creates content that's all thrill, no kills",
+        "Results in your authentic take on the topic"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "Multiple Videos Approach",
+        "text": "To extract multiple short-form videos from one long-form piece, pause whenever an interesting point is made. Note it briefly, then later revisit each note to develop separate scripts once the original wording has faded from memory."
+      },
+      "summaryPoints": [
+        "One YouTube video can yield 5-6 shorts",
+        "Wait before writing to avoid accidental copying",
+        "Do your own research to fill in details",
+        "Always double-check against the original"
+      ],
+      "type": "right"
+    },
+    {
+      "mainContent": {
+        "title": "YouTube Packaging Transfer",
+        "text": "A YouTube video's title and thumbnail are essentially its hook. These elements have already been validated by viewers, so adapt them directly for your short-form hook rather than looking at how they started the actual video."
+      },
+      "summaryPoints": [
+        "Title often makes a great verbal hook",
+        "Thumbnail text can become your text hook",
+        "Thumbnail visual elements inspire visual hook",
+        "They've already done the hook testing for you"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "Article Transformation",
+        "text": "When repurposing articles, strip away the journalistic style and sensationalize appropriately for short-form. Headlines become hooks, but be wary of copying the formal writing style that works in text but sounds unnatural spoken."
+      },
+      "summaryPoints": [
+        "Headlines convert well to hooks",
+        "Remove 'copy' elements from your script",
+        "Write how you'd speak, not how you'd write",
+        "Add personality where articles are formal"
+      ],
+      "type": "right"
+    }
+  ],
+  "proTips": [
+    {
+      "text": "Double-check your final script against the original - our brains often accidentally reconstruct exact wording we thought we'd forgotten."
+    },
+    {
+      "text": "Never use ChatGPT to rewrite article content for short-form - it can't capture natural speaking patterns that platforms demand."
+    }
+  ],
+  "finalWords": {
+    "reminder": "Remember...",
+    "emphasis": "Your Memory Is Your Best Editor",
+    "description": "What naturally sticks with you is what will resonate with your audience."
+  },
+  "tables": []
+}

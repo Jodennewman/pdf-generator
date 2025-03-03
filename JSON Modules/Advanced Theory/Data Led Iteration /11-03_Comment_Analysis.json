@@ -1,0 +1,103 @@
+{
+  "moduleInfo": {
+    "moduleNumber": "11.03",
+    "sectionName": "Advanced Theory and Practices",
+    "moduleTitle": "Advanced Theory and Practices/11 Data-Led Iteration/Comment Analysis"
+  },
+  "theme": {
+    "mode": "dark"
+  },
+  "overview": {
+    "quote": "Comments are your best insights into the viewer's mind because they are throwing up their mind all over the comment section.",
+    "introText": "Comments provide direct insight into audience psychology. This module shows how to interpret comment patterns, spark meaningful conversations, and use viewer feedback to refine your content strategy."
+  },
+  "keyTerms": [
+    {
+      "term": "COMMENT PSYCHOLOGY",
+      "definition": "The emotional drivers and thought patterns revealed through viewer comments, providing insights into content reception."
+    },
+    {
+      "term": "CONVERSATION TRIGGERS",
+      "definition": "Strategic elements within content that prompt viewers to share thoughts, creating engagement through discussion."
+    },
+    {
+      "term": "ENGAGEMENT RATIO",
+      "definition": "The relationship between views and comments that indicates how effectively content sparks audience interaction."
+    },
+    {
+      "term": "COMMENT ENVIRONMENT",
+      "definition": "The overall tone and interaction patterns in a comment section that influence future commenters' behavior."
+    }
+  ],
+  "actionPlan": [
+    "Analyse comment-to-view ratios across videos",
+    "Implement conversation triggers in content",
+    "Respond to early commenters strategically",
+    "Test opinion-based hooks for comment generation",
+    "Review generic positive comments for deeper insights"
+  ],
+  "takeaways": [
+    {
+      "mainContent": {
+        "title": "No Comments = No Conversation",
+        "text": "If videos get views but no comments, you're failing to spark conversation. Critique your content by asking what would make YOU comment if you saw this video from someone else."
+      },
+      "summaryPoints": [
+        "Comments require emotional response",
+        "First commenters set the tone for others",
+        "Explicit questions can jumpstart comments"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "Comment Hacking Strategies",
+        "text": "Strategic comment generation techniques include foregone conclusions, taking firm stances, reacting to current events, or asking provocative questions that make viewers want to weigh in."
+      },
+      "summaryPoints": [
+        "Slightly divisive topics generate discussion",
+        "Relevant hot takes spark engagement",
+        "Strategic questions elicit responses"
+      ],
+      "type": "right"
+    },
+    {
+      "mainContent": {
+        "title": "Quality vs. Quantity",
+        "text": "Generic positive comments ('Great video!') signal content that's good but not conversation-worthy. Aim for content that elicits specific, thoughtful responses rather than mere approval."
+      },
+      "summaryPoints": [
+        "Emotional impact drives specific comments",
+        "Leave some points for viewers to add",
+        "Create debate opportunities"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "Comment Section Environment",
+        "text": "Early commenters set the precedent for the entire comment section. A toxic start discourages positive engagement, while thoughtful early comments create space for meaningful dialogue."
+      },
+      "summaryPoints": [
+        "Empty comments sections discourage engagement",
+        "Negative-dominated sections repel some viewers",
+        "Strategic self-commenting can set tone"
+      ],
+      "type": "right"
+    }
+  ],
+  "proTips": [
+    {
+      "text": "Use the 'empty room' psychology to your advantage - seed comments with a few questions from alt accounts to get the conversation flowing."
+    },
+    {
+      "text": "When a controversial hook drives comments but viewers drop off, place another surprising element mid-video to recapture scrollers."
+    }
+  ],
+  "finalWords": {
+    "reminder": "Remember...",
+    "emphasis": "Emotion drives conversation",
+    "description": "Content that makes people feel something is content they'll comment on."
+  },
+  "tables": []
+}

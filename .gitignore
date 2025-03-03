@@ -1,0 +1,28 @@
+# Node.js dependencies
+node_modules/
+
+# macOS system files
+.DS_Store
+._*
+
+# Generated files
+outputs/
+pdfs/
+
+# Environment files
+.env
+.env.local
+
+# IDE files
+.vscode/
+*.code-workspace
+
+# Logs
+*.log
+
+# Build output
+dist/
+build/
+
+# Cache directories
+.cache/

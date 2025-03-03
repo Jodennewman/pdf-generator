@@ -1,0 +1,119 @@
+{
+  "moduleInfo": {
+    "moduleNumber": "03.04",
+    "sectionName": "Basic Theory and Practices",
+    "moduleTitle": "Basic Theory and Practices/03 Helpful Formats 101/Complex Formats Advanced"
+  },
+  "theme": {
+    "mode": "light"
+  },
+  "overview": {
+    "quote": "Formats are the cheese around the pill that can save a boring topic and ruin a good one.",
+    "introText": "Advanced content creators master the art of combining formats, breaking expectations, and crafting unexpected pivots. This strategic approach transforms standard content into memorable experiences that keep viewers watching and coming back."
+  },
+  "keyTerms": [
+    {
+      "term": "FORMAT MASTERY",
+      "definition": "The ability to strategically layer, subvert, and pivot between content formats to maximize engagement while maintaining authenticity."
+    },
+    {
+      "term": "ENGAGEMENT ARCHITECTURE",
+      "definition": "Deliberately structuring format elements to create multiple retention hooks throughout a video, particularly at vulnerable drop-off points."
+    },
+    {
+      "term": "PATTERN INTERRUPTION",
+      "definition": "Suddenly changing direction or format to wake viewers from passive scrolling and create memorable content moments."
+    },
+    {
+      "term": "COMMENT CATALYSTS",
+      "definition": "Strategic content elements that naturally drive viewers to engage in the comment section, boosting algorithmic performance."
+    },
+    {
+      "term": "AUTHENTIC DISRUPTION",
+      "definition": "Breaking established format patterns in ways that feel natural rather than forced, creating genuine connection with viewers."
+    }
+  ],
+  "actionPlan": [
+    "Map your current format strengths",
+    "Test one format combination in next video",
+    "Add a subtle expectation break midway",
+    "Include unexpected pivot near the end",
+    "Analyze comment section for reactions",
+    "Refine based on engagement data"
+  ],
+  "takeaways": [
+    {
+      "mainContent": {
+        "title": "The Power of Layering",
+        "text": "Combining complementary formats (like storytimes with listicles or green screens) creates content that's greater than the sum of its parts. The key is ensuring formats amplify rather than compete with each other."
+      },
+      "summaryPoints": [
+        "Adds dimension without confusion",
+        "Creates multiple engagement hooks",
+        "Maintains simplicity through complementary pairings"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "The Pattern-Break Advantage",
+        "text": "Breaking format expectations jolts viewers out of passive scrolling. The classic subversion hook (\"All the cool girls are wearing... now that the boys are gone\") creates immediate attention that differentiates your content."
+      },
+      "summaryPoints": [
+        "Wakes up passive viewers",
+        "Creates memorable brand moments",
+        "Drives higher engagement through surprise"
+      ],
+      "type": "right"
+    },
+    {
+      "mainContent": {
+        "title": "Strategic Pivot Points",
+        "text": "Unexpected format changes near the end of content (like the disrupted storytime or bonus listicle item) reward loyal viewers while driving comments that pull in curious scrollers through FOMO."
+      },
+      "summaryPoints": [
+        "Rewards complete viewing",
+        "Creates viewer-driven rehooking",
+        "Builds expectation of full-video value"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "Building Creator Identity",
+        "text": "Consistently using advanced format techniques establishes a distinctive creator voice. When viewers recognize your unique approach to format manipulation, you move from viral videos to memorable creator status."
+      },
+      "summaryPoints": [
+        "Establishes creator signature style",
+        "Creates loyal audience expectation",
+        "Differentiates from algorithmic sameness"
+      ],
+      "type": "right"
+    }
+  ],
+  "proTips": [
+    {
+      "text": "Start with 70% proven format, 30% experimentation until you find what works for your specific audience and content style."
+    },
+    {
+      "text": "Comment sections reveal what viewers notice—design future format experiments based on what already drives organic engagement."
+    }
+  ],
+  "finalWords": {
+    "reminder": "Remember...",
+    "emphasis": "walk before running, imitate before iterating",
+    "description": "Master the basics before complex combinations, but don't be afraid to experiment."
+  },
+  "tables": [
+    {
+      "title": "Format Technique Comparison",
+      "headers": ["Technique", "Best For", "Difficulty", "Engagement Impact"],
+      "rows": [
+        ["Format Layering", "Structured Content", "Medium", "Steady Retention"],
+        ["Expectation Breaks", "Pattern Interruption", "Medium", "Attention Spikes"],
+        ["End Pivots", "Building Loyalty", "Low", "Comments & Return Views"],
+        ["Full Integration", "Brand Building", "High", "Long-term Growth"]
+      ]
+    }
+  ]
+}

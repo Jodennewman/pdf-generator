@@ -1,0 +1,114 @@
+{
+  "moduleInfo": {
+    "moduleNumber": "11.04",
+    "sectionName": "Advanced Theory and Practices",
+    "moduleTitle": "Advanced Theory and Practices/11 Data-Led Iteration/Advanced Metrics Analysis"
+  },
+  "theme": {
+    "mode": "dark"
+  },
+  "overview": {
+    "quote": "If audiences tastes change, don't be afraid to pivot from a bucket that was doing great.",
+    "introText": "Beyond basic views and likes, secondary metrics reveal deeper insights about your content's true impact. Learn to interpret follows, shares, and saves to understand content value and make strategic adjustments to your approach."
+  },
+  "keyTerms": [
+    {
+      "term": "FOLLOWER CONVERSION",
+      "definition": "The rate at which viewers become followers after watching content, indicating strong connection with your style or niche."
+    },
+    {
+      "term": "SHARE RATIO",
+      "definition": "The proportion of viewers who share content, typically signaling relevance to ongoing conversations or high value worth passing along."
+    },
+    {
+      "term": "SAVE METRICS",
+      "definition": "The percentage of viewers who save/favorite content for later reference, typically indicating high utility or educational value."
+    },
+    {
+      "term": "CONTENT BUCKETS",
+      "definition": "Thematic categories of content that can be evaluated independently for performance and audience resonance."
+    }
+  ],
+  "actionPlan": [
+    "Track follower growth after each content type",
+    "Measure shares-per-thousand-views ratio",
+    "Analyse which content gets most saves",
+    "Compare metrics across different content buckets",
+    "Identify underperforming metrics to target improvements"
+  ],
+  "takeaways": [
+    {
+      "mainContent": {
+        "title": "Follower Growth Signals",
+        "text": "High follower conversion despite low views indicates strong niche audience connection. These dedicated fans suggest your content has value that just needs broader packaging to reach more people."
+      },
+      "summaryPoints": [
+        "Quality audience over mass views",
+        "Loyal niche audience provides foundation",
+        "Content resonates deeply with specific viewers"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "Share Psychology",
+        "text": "Shares indicate your content is part of a wider conversation. When viewers share at rates above 1 per 1000 views, they're finding your content relevant enough to their social circles to pass along."
+      },
+      "summaryPoints": [
+        "Shares connect to off-platform conversations",
+        "Social proof for content relevance",
+        "Viewers want association with your insights"
+      ],
+      "type": "right"
+    },
+    {
+      "mainContent": {
+        "title": "Save Dynamics",
+        "text": "High saves with moderate engagement suggests high-value content that viewers intend to reference later. Educational or utility-focused content often excels here but may need more entertainment value."
+      },
+      "summaryPoints": [
+        "Saves indicate perceived future utility",
+        "Educational content drives saves",
+        "Balance information with entertainment"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "Bucket Lifecycle Management",
+        "text": "Even successful content types eventually decline in performance. Monitor metrics across your content buckets and be ready to pivot, refresh, or retire formats before audience fatigue sets in."
+      },
+      "summaryPoints": [
+        "All content types have natural lifecycles",
+        "Cultural relevance shifts over time",
+        "Strategic rotation maintains freshness"
+      ],
+      "type": "right"
+    }
+  ],
+  "proTips": [
+    {
+      "text": "When you spot a decline in a previously successful content bucket, reduce frequency while developing alternatives rather than abandoning it completely."
+    },
+    {
+      "text": "The 'goldfish memory' effect means you can often revive successful content types after a 6-month hiatus when viewers feel it's fresh again."
+    }
+  ],
+  "finalWords": {
+    "reminder": "Remember...",
+    "emphasis": "Different metrics tell different stories",
+    "description": "A complete picture emerges only when you consider all engagement types together."
+  },
+  "tables": [
+    {
+      "title": "Metric Interpretation Guide",
+      "headers": ["Metric", "Strength", "Likely Cause", "Action Needed"],
+      "rows": [
+        ["Views ↑ Comments ↓", "Content", "Low emotion/debate", "Add conversation triggers"],
+        ["Views ↓ Comments ↑", "Topic", "Niche interest", "Broaden appeal"],
+        ["Saves ↑ Completion ↓", "Value", "Too complex", "Simplify delivery"],
+        ["Follows ↑ Shares ↓", "Personal", "Self-focused", "Add cultural relevance"]
+      ]
+    }
+  ]
+}

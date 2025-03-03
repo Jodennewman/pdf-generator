@@ -1,0 +1,114 @@
+{
+  "moduleInfo": {
+    "moduleNumber": "10.04",
+    "sectionName": "Advanced Theory and Practices",
+    "moduleTitle": "Advanced Theory and Practices/10 Advanced Engagement Metrics/Traffic Sources"
+  },
+  "theme": {
+    "mode": "dark"
+  },
+  "overview": {
+    "quote": "It's not just about how many people watched, but how they found you in the first place.",
+    "introText": "Traffic sources tell you exactly how viewers discovered your content—whether through the algorithm, your profile, external links, or search—giving you crucial insights for optimization."
+  },
+  "keyTerms": [
+    {
+      "term": "FOR YOU FEED",
+      "definition": "The algorithmic recommendation system that suggests content to users based on their interests and behaviors."
+    },
+    {
+      "term": "EXTERNAL TRAFFIC",
+      "definition": "Views coming from outside the platform, like shares to messaging apps or links from other sites."
+    },
+    {
+      "term": "PROFILE TRAFFIC",
+      "definition": "Viewers who found your video by browsing your profile rather than through recommendations."
+    },
+    {
+      "term": "ALGORITHMIC THROTTLING",
+      "definition": "When platforms limit the reach of your content, often indicated by low For You feed traffic."
+    }
+  ],
+  "actionPlan": [
+    "Check if For You feed traffic exceeds 95%",
+    "Create content sequences to boost profile traffic",
+    "Monitor sudden external traffic spikes",
+    "Optimize based on your strongest traffic source",
+    "Test seed comments to kickstart conversations"
+  ],
+  "takeaways": [
+    {
+      "mainContent": {
+        "title": "The For You Feed Gold Standard",
+        "text": "When most traffic (95%+) comes from the For You feed, it means algorithms are organically pushing your content—the healthiest sign for growth and Creator Fund revenue."
+      },
+      "summaryPoints": [
+        "Algorithmic distribution is hardest to manipulate",
+        "Creator Fund prioritizes For You feed views",
+        "Low For You traffic may indicate review flags"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "Profile Traffic Strategies",
+        "text": "High profile traffic means viewers are exploring multiple videos after seeing one—a sign of strong audience connection that you can strategically optimize for."
+      },
+      "summaryPoints": [
+        "Create content series and references to earlier videos",
+        "Use playlists to organize related content",
+        "Explicitly invite viewers to check your profile"
+      ],
+      "type": "right"
+    },
+    {
+      "mainContent": {
+        "title": "External Traffic Insights",
+        "text": "Significant external traffic (over 5-10%) usually indicates your content is being discussed elsewhere—either through direct shares or mentions on other platforms."
+      },
+      "summaryPoints": [
+        "Zero external traffic may indicate share issues",
+        "High external traffic could mean viral discussion",
+        "External engagement doesn't boost algorithms"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "Search Traffic Optimization",
+        "text": "While less crucial for short-form content, search traffic shows which topics people are actively looking for in your niche that you could expand on."
+      },
+      "summaryPoints": [
+        "Identify searchable topics in your content",
+        "Use keywords naturally in captions/descriptions",
+        "Consider series on high-search topics"
+      ],
+      "type": "right"
+    }
+  ],
+  "proTips": [
+    {
+      "text": "Early comments from friends won't boost algorithm performance if they come through external traffic—the platform knows they're not organic."
+    },
+    {
+      "text": "If using seed comments to start conversations, make them about controversial points in your video rather than generic praise."
+    }
+  ],
+  "finalWords": {
+    "reminder": "Remember...",
+    "emphasis": "Source Matters As Much As Quantity",
+    "description": "Where viewers come from shapes how your content grows and monetizes."
+  },
+  "tables": [
+    {
+      "title": "Traffic Source Implications",
+      "headers": ["Source", "Healthy %", "Indicates", "Optimization"],
+      "rows": [
+        ["For You Feed", "95%+", "Algorithm Favor", "Hook Strength"],
+        ["Profile", "10-30%", "Fan Growth", "Content Series"],
+        ["External", "1-5%", "Word of Mouth", "Shareable Moments"],
+        ["Search", "5-20%", "Topic Interest", "Keyword Usage"]
+      ]
+    }
+  ]
+}

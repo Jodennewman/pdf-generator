@@ -1,0 +1,123 @@
+{
+  "moduleInfo": {
+    "moduleNumber": "01.04",
+    "sectionName": "Repurposing",
+    "moduleTitle": "Repurposing/01 Repurposing Normal/Repurposing Master Strategy"
+  },
+  "theme": {
+    "mode": "light"
+  },
+  "overview": {
+    "quote": "Pre-validation is key, but stealing like an artist requires skill.",
+    "introText": "Master the art of transforming any content type—short-form videos, YouTube content, articles, or LinkedIn posts—into engaging platform-native content that retains impact while feeling authentic to you."
+  },
+  "keyTerms": [
+    {
+      "term": "CONTENT TRANSFORMATION",
+      "definition": "Adapting existing content for new platforms while preserving core value and adjusting to platform psychology."
+    },
+    {
+      "term": "ETHICAL INSPIRATION",
+      "definition": "Using others' content as a starting point without plagiarizing, focusing on adding your unique perspective and value."
+    },
+    {
+      "term": "PLATFORM PSYCHOLOGY",
+      "definition": "How audience expectations differ across platforms, requiring specific adaptations in tone, visual style and delivery."
+    },
+    {
+      "term": "HOOK PRESERVATION",
+      "definition": "Maintaining what made the original content attention-grabbing while adapting it to your style and platform requirements."
+    },
+    {
+      "term": "PRE-VALIDATION",
+      "definition": "Leveraging content that's already proven successful to increase the likelihood your adaptation will perform well."
+    }
+  ],
+  "actionPlan": [
+    "Identify high-performing content in your niche",
+    "Analyze what makes it engaging (hook, structure, etc.)",
+    "Strip corporate language if from LinkedIn/articles",
+    "Rewrite in your natural speaking voice",
+    "Adjust visuals to match platform expectations",
+    "Test with platform-native filming techniques"
+  ],
+  "takeaways": [
+    {
+      "mainContent": {
+        "title": "Universal Repurposing Principles",
+        "text": "Regardless of source material, focus on preserving the core hook while making the content undeniably yours through voice, perspective, and visual style. Success lies in balancing what worked originally with your unique contribution."
+      },
+      "summaryPoints": [
+        "Honor what made the original work",
+        "Add your unique perspective and experience",
+        "Adapt to platform-specific expectations",
+        "Make it impossible to confuse with the original"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "Source-Specific Strategies",
+        "text": "Each content type requires specific adaptation techniques: short-form needs hook preservation, YouTube needs thumbnail-to-hook translation, articles need journalistic detox, and LinkedIn needs corporate deprogramming."
+      },
+      "summaryPoints": [
+        "Short-form: Focus on hook transformation",
+        "YouTube: Use thumbnail/title as your hook",
+        "Articles: Remove journalistic tone",
+        "LinkedIn: Add personality the original lacked"
+      ],
+      "type": "right"
+    },
+    {
+      "mainContent": {
+        "title": "The Memory Method",
+        "text": "For any long-form content, let your memory act as the first filter. Consume the content, then write what naturally stayed with you—these elements are most likely to resonate with viewers and form the foundation of your adaptation."
+      },
+      "summaryPoints": [
+        "Watch/read the content without notes first",
+        "Write down what you remember afterward",
+        "Focus on points that sparked emotion in you",
+        "Trust your memory to filter the fluff"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "Platform Transformation",
+        "text": "Content must feel native to its platform. LinkedIn polish becomes TikTok authenticity, article formality becomes conversational energy, and YouTube structured explanations become quick, hook-driven revelations."
+      },
+      "summaryPoints": [
+        "Match the energy expectations of the platform",
+        "Adjust visual style to platform norms",
+        "Transform writing styles into speaking styles",
+        "Preserve message while changing delivery"
+      ],
+      "type": "right"
+    }
+  ],
+  "proTips": [
+    {
+      "text": "Study comment sections of your inspiration content—they reveal what truly resonated and often contain insights the creator missed."
+    },
+    {
+      "text": "Avoid AI rewriting tools—they strip personality and can't capture the natural speaking tone essential for short-form success."
+    }
+  ],
+  "finalWords": {
+    "reminder": "Remember...",
+    "emphasis": "Content Is Never Perfected Until Everyone Has Seen It",
+    "description": "Your adaptation isn't stealing—it's extending the reach of valuable ideas."
+  },
+  "tables": [
+    {
+      "title": "Repurposing Source Guide",
+      "headers": ["Source", "Key Challenge", "Success Strategy", "Common Pitfall"],
+      "rows": [
+        ["Short-Form", "Originality", "Preserve hook, change perspective", "Direct copying"],
+        ["YouTube", "Condensing", "Title/thumbnail to hook", "Including too much"],
+        ["Articles", "Tone", "Rewrite in speaking voice", "Keeping formal language"],
+        ["LinkedIn", "Corporate feel", "Add personality, emotion", "Retaining business speak"]
+      ]
+    }
+  ]
+}

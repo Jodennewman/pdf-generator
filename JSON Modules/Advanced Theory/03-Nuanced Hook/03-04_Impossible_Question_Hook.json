@@ -1,0 +1,105 @@
+{
+  "moduleInfo": {
+    "moduleNumber": "03.04",
+    "sectionName": "Advanced Theory and Practices",
+    "moduleTitle": "Advanced Theory and Practices/03 Nuanced Hooks/Impossible Question Hook"
+  },
+  "theme": {
+    "mode": "dark"
+  },
+  "overview": {
+    "quote": "Is the Mona Lisa actually a man? Are blueberries worse for your health than smoking?",
+    "introText": "The Impossible Question Hook poses outlandish questions that viewers know are probably false - yet they're compelled to discover your reasoning and perspective anyway."
+  },
+  "keyTerms": [
+    {
+      "term": "COGNITIVE DISSONANCE",
+      "definition": "Mental discomfort from holding contradictory beliefs that drives viewers to seek resolution by watching your content."
+    },
+    {
+      "term": "REDUCTIO AD ABSURDUM",
+      "definition": "Starting with an extreme conclusion that viewers want to trace back to understand your reasoning process."
+    },
+    {
+      "term": "ADJACENT QUESTIONING",
+      "definition": "Asking a question slightly off-center from your main point to create intrigue without misleading viewers."
+    },
+    {
+      "term": "CLICKBAIT BOUNDARY",
+      "definition": "The fine line between provocative questioning and misleading claims that can damage creator credibility."
+    }
+  ],
+  "actionPlan": [
+    "List 10 impossible questions in your niche",
+    "Create hooks with immediate truth admission",
+    "Test a delayed-revelation impossible question",
+    "Monitor engagement rates of each approach",
+    "Refine your impossible questions tone"
+  ],
+  "takeaways": [
+    {
+      "mainContent": {
+        "title": "Beyond the Answer",
+        "text": "The power isn't in the answer (which is usually 'no'), but in making viewers curious about your thinking process behind asking it."
+      },
+      "summaryPoints": [
+        "Creates curiosity about your reasoning",
+        "Makes viewers wonder 'why ask that?'",
+        "Invites viewers to consider possibilities",
+        "Positions you as a creative thinker"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "The Immediate Pivot",
+        "text": "For credibility, immediately acknowledge the question's absurdity then pivot to your actual point - this avoids misleading viewers while keeping the hook's power."
+      },
+      "summaryPoints": [
+        "Start with impossible question",
+        "Quickly admit 'Well, no, but...'",
+        "Pivot to your actual insight",
+        "Maintain credibility while hooking viewers"
+      ],
+      "type": "right"
+    },
+    {
+      "mainContent": {
+        "title": "Adjacent Thinking",
+        "text": "Find questions adjacent to your main topic that are controversial enough to stop scrolling but connected enough to feel relevant."
+      },
+      "summaryPoints": [
+        "Seek the controversial edge of your topic",
+        "Make questions sensational but relevant",
+        "Connect back to your actual content",
+        "Avoid pure shock with no substance"
+      ],
+      "type": "left"
+    }
+  ],
+  "proTips": [
+    {
+      "text": "If your audience is highly analytical, pose impossible questions that challenge logical assumptions rather than factual ones."
+    },
+    {
+      "text": "For extra engagement, create a 2-part hook: impossible question → pause → 'Well, no, but you'll be surprised...'"
+    }
+  ],
+  "finalWords": {
+    "reminder": "Remember...",
+    "emphasis": "INTRIGUE",
+    "description": "The impossible question makes people curious about your thinking, not the answer."
+  },
+  "tables": [
+    {
+      "title": "Impossible Question Framework",
+      "headers": ["Question Type", "Structure", "Example", "Best For"],
+      "rows": [
+        ["Scientific", "Is X actually Y?", "Is coffee toxic?", "Health/Science"],
+        ["Historical", "Did X really Y?", "Did Mozart hate music?", "Education"],
+        ["Contrarian", "Should we stop X?", "Should we quit social?", "Thought leadership"],
+        ["Reversal", "Is X worse than Y?", "Is fruit worse than cake?", "Comparisons"]
+      ]
+    }
+  ]
+}

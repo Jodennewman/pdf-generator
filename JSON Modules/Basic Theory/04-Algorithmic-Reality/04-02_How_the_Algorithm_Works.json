@@ -1,0 +1,99 @@
+{
+  "moduleInfo": {
+    "moduleNumber": "04.02",
+    "sectionName": "Basic Theory and Practices",
+    "moduleTitle": "Basic Theory and Practices/04 Algorithmic Reality/How the Algorithm Works"
+  },
+  "theme": {
+    "mode": "dark"
+  },
+  "overview": {
+    "quote": "The algorithm takes those metrics and uses them to quantify how many people, what type of people, and how much people actually liked the video.",
+    "introText": "Understanding the step-by-step distribution process that social media algorithms use to test, evaluate, and promote content to wider audiences."
+  },
+  "keyTerms": [
+    {
+      "term": "TEST POOL",
+      "definition": "Initial batch of 150-200 viewers that algorithms use to gauge content performance before wider distribution."
+    },
+    {
+      "term": "BATCH PROMOTION",
+      "definition": "Process where algorithms gradually expand audience size based on continued positive engagement signals."
+    },
+    {
+      "term": "VIEW JAIL",
+      "definition": "When content stalls at initial test audience numbers, indicating insufficient engagement to warrant further promotion."
+    },
+    {
+      "term": "VIRALITY CURVE",
+      "definition": "Pattern of exponential view growth as content passes through multiple successful distribution batches."
+    }
+  ],
+  "actionPlan": [
+    "Optimize first 3-5 seconds for hook quality",
+    "Design content to drive specific engagement types",
+    "Analyze which videos break past initial test pool",
+    "Study your 'slow-burn' vs 'overnight' viral content"
+  ],
+  "takeaways": [
+    {
+      "mainContent": {
+        "title": "The Initial Test",
+        "text": "Every video gets tested with 150-200 viewers first. Their response determines if your content ever reaches a wider audience. This is your critical first impression."
+      },
+      "summaryPoints": [
+        "First viewers determine fate",
+        "Strong engagement expands reach",
+        "Poor response means video stalls"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "Batch Distribution System",
+        "text": "Algorithms distribute content in expanding waves. Each successful batch leads to a larger audience test, which is why viral content often grows in noticeable jumps rather than linearly."
+      },
+      "summaryPoints": [
+        "Growth comes in waves",
+        "Each batch tests viability",
+        "Performance determines next batch size"
+      ],
+      "type": "right"
+    },
+    {
+      "mainContent": {
+        "title": "Fast vs. Slow Virality",
+        "text": "Some videos explode overnight while others grow steadily over days. The difference lies in how confident the algorithm is about audience appeal—universal hits spread faster than niche content."
+      },
+      "summaryPoints": [
+        "Overnight: universal appeal",
+        "Slow burn: finding right audience",
+        "Both can reach millions eventually"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "The 200-View Plateau",
+        "text": "Getting 'stuck' at low view counts isn't a punishment—it's data showing your content didn't generate enough interest from the test group to warrant further distribution."
+      },
+      "summaryPoints": [
+        "Not a 'jail' but a result",
+        "Indicates average or below response",
+        "Algorithm found better content options"
+      ],
+      "type": "right"
+    }
+  ],
+  "proTips": [
+    {
+      "text": "Videos that generate intense debate often receive extra distribution because the algorithm sees lengthy comment threads as extended engagement time."
+    }
+  ],
+  "finalWords": {
+    "reminder": "Remember...",
+    "emphasis": "Every video starts with the same opportunity",
+    "description": "The first 200 viewers are your gateway to millions—make them count!"
+  },
+  "tables": []
+}
