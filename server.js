@@ -1,7 +1,6 @@
 const express = require('express');
 const { exec } = require('child_process');
 const path = require('path');
-const open = require('open');
 
 const app = express();
 app.use(express.json());
@@ -48,8 +47,9 @@ app.post('/generate-and-convert', (req, res) => {
 });
 
 const PORT = process.env.PORT || 3000;
-app.listen(PORT, () => {
+app.listen(PORT, async () => {
     console.log(`Server running at http://localhost:${PORT}`);
-    // Open the interface in the default browser
-    open(`http://localhost:${PORT}`);
+    // Open the interface in the default browser using dynamic import
+    const open = (await import('open')).default;
+    await open(`http://localhost:${PORT}`);
 }); 
