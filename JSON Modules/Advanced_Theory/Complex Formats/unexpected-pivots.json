@@ -1,0 +1,102 @@
+{
+  "moduleInfo": {
+    "moduleNumber": "03.03",
+    "sectionName": "Basic Theory and Practices",
+    "moduleTitle": "Basic Theory and Practices/03 Helpful Formats 101/Unexpected Pivots"
+  },
+  "theme": {
+    "mode": "light"
+  },
+  "overview": {
+    "quote": "Reward loyal viewers - when you get that right, they'll leave feeling extra satisfied.",
+    "introText": "The unexpected pivot is a powerful format technique that creates a last-minute change just when viewers think they know what's coming. It rewards loyalty, drives engagement, and builds a reputation for delivering extra value."
+  },
+  "keyTerms": [
+    {
+      "term": "DISRUPTED STORYTIME",
+      "definition": "Breaking the expected flow of a story-based video with a sudden format change near the end to maintain engagement."
+    },
+    {
+      "term": "COMMENT DRIVERS",
+      "definition": "Unexpected content elements that naturally prompt viewers to participate in the comment section, boosting algorithmic performance."
+    },
+    {
+      "term": "VIEWER FOMO",
+      "definition": "The fear of missing out that drives viewers to watch content fully when they notice high comment engagement about something in the video."
+    },
+    {
+      "term": "LOYALTY REWARD",
+      "definition": "Content elements strategically placed to give viewers who watch to the end an extra payoff, building stronger audience connection."
+    }
+  ],
+  "actionPlan": [
+    "Plan a standard format video",
+    "Add an unexpected twist in final third",
+    "Film both regular and pivot sections",
+    "Edit for maximum surprise impact",
+    "Respond quickly to initial comments"
+  ],
+  "takeaways": [
+    {
+      "mainContent": {
+        "title": "The Last-Minute Format Break",
+        "text": "Introducing an unexpected format change near the end of a video (like suddenly rushing to answer the door during a storytime) creates authenticity and a fourth-wall break that keeps viewers engaged to the final second."
+      },
+      "summaryPoints": [
+        "Breaks the pattern when attention dips",
+        "Creates authentic, relatable moments",
+        "Doesn't require complex production"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "Listicle Bonus Surprise",
+        "text": "Adding an unexpected 'extra' item just when viewers think a listicle is ending (\"Actually, I just found one more and it's even crazier\") rewards those who stayed and creates a powerful retention pattern for future content."
+      },
+      "summaryPoints": [
+        "Rewards viewers who watch to the end",
+        "Creates positive mental connection",
+        "Teaches audience to expect full-video value"
+      ],
+      "type": "right"
+    },
+    {
+      "mainContent": {
+        "title": "Comment-Driven Engagement",
+        "text": "Subtle unexpected pivots drive comments from viewers who notice them, creating discussions that pull in curious scrollers who want to understand what others are talking about—effectively letting viewers do your rehooking."
+      },
+      "summaryPoints": [
+        "Turns curious viewers into full watchers",
+        "Creates organic discussion",
+        "Leverages FOMO to increase retention"
+      ],
+      "type": "left"
+    }
+  ],
+  "proTips": [
+    {
+      "text": "Make your pivot subtle enough that some viewers notice it but others don't - the resulting comment debate drives massive engagement."
+    },
+    {
+      "text": "Track which types of pivots drive the most comments, then strategically use those styles in videos needing an engagement boost."
+    }
+  ],
+  "finalWords": {
+    "reminder": "Remember...",
+    "emphasis": "unexpected doesn't mean unrelated",
+    "description": "Your pivot should still connect logically to your content's main message."
+  },
+  "tables": [
+    {
+      "title": "Pivot Types & Their Effects",
+      "headers": ["Pivot Type", "Best For", "Viewer Effect", "Comment Impact"],
+      "rows": [
+        ["Visual Change", "Static Videos", "Pattern Interrupt", "Medium"],
+        ["Bonus Content", "Lists/Tutorials", "Reward Feeling", "High"],
+        ["Real Life Break", "Perfect Videos", "Relatability", "Very High"],
+        ["Format Shift", "Story Content", "Surprise", "Medium"]
+      ]
+    }
+  ]
+}

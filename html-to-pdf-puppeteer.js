@@ -5,8 +5,8 @@ const path = require('path');
 const puppeteer = require('puppeteer');
 
 // 1. Paths to input/output directories
-const sourceDir = '/Volumes/JC SSD/000-CCH/04-Course/PDFs/Codes/outputs';
-const outputDir = '/Volumes/JC SSD/000-CCH/04-Course/PDFs/Codes/pdfs';
+const sourceDir = path.join(__dirname, 'outputs');
+const outputDir = path.join(__dirname, 'pdfs');
 
 // 2. Path to config file that stores last modification times
 const configFilePath = path.join(__dirname, 'singleTallPDF-config.json');

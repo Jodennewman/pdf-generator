@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PDF Generator Interface</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #264653;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+        .button-group {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 30px;
+            justify-content: center;
+        }
+        .button {
+            padding: 15px 30px;
+            border: none;
+            border-radius: 5px;
+            background: #264653;
+            color: white;
+            cursor: pointer;
+            font-size: 16px;
+            transition: all 0.3s ease;
+        }
+        .button:hover {
+            background: #2a9d8f;
+            transform: translateY(-2px);
+        }
+        .status {
+            padding: 20px;
+            border-radius: 5px;
+            background: #e9ecef;
+            margin-top: 20px;
+            display: none;
+        }
+        .status.success {
+            background: #d4edda;
+            color: #155724;
+            display: block;
+        }
+        .status.error {
+            background: #f8d7da;
+            color: #721c24;
+            display: block;
+        }
+        .template-select {
+            margin-bottom: 20px;
+            padding: 10px;
+            width: 100%;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>PDF Generator</h1>
+        
+        <select class="template-select" id="templateSelect">
+            <option value="Version4.html">Default Template</option>
+            <option value="basic.html">Basic Template</option>
+            <option value="advanced.html">Advanced Template</option>
+            <option value="custom.html">Custom Template</option>
+        </select>
+
+        <div class="button-group">
+            <button class="button" onclick="generateHTML()">Generate HTML</button>
+            <button class="button" onclick="convertToPDF()">Convert to PDF</button>
+            <button class="button" onclick="generateAndConvert()">Generate & Convert</button>
+        </div>
+
+        <div id="status" class="status"></div>
+    </div>
+
+    <script>
+        function showStatus(message, isError = false) {
+            const status = document.getElementById('status');
+            status.textContent = message;
+            status.className = 'status ' + (isError ? 'error' : 'success');
+            setTimeout(() => {
+                status.style.display = 'none';
+            }, 5000);
+        }
+
+        async function generateHTML() {
+            try {
+                const template = document.getElementById('templateSelect').value;
+                const response = await fetch('/generate-html', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ template })
+                });
+                
+                if (!response.ok) throw new Error('Failed to generate HTML');
+                showStatus('HTML generated successfully!');
+            } catch (error) {
+                showStatus(error.message, true);
+            }
+        }
+
+        async function convertToPDF() {
+            try {
+                const response = await fetch('/convert-pdf', {
+                    method: 'POST'
+                });
+                
+                if (!response.ok) throw new Error('Failed to convert to PDF');
+                showStatus('PDF conversion complete!');
+            } catch (error) {
+                showStatus(error.message, true);
+            }
+        }
+
+        async function generateAndConvert() {
+            try {
+                const template = document.getElementById('templateSelect').value;
+                const response = await fetch('/generate-and-convert', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ template })
+                });
+                
+                if (!response.ok) throw new Error('Failed to generate and convert');
+                showStatus('Generation and conversion complete!');
+            } catch (error) {
+                showStatus(error.message, true);
+            }
+        }
+    </script>
+</body>
+</html> 

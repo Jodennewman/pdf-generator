@@ -1,0 +1,94 @@
+{
+  "moduleInfo": {
+    "moduleNumber": "03.01",
+    "sectionName": "Advanced Theory and Practices",
+    "moduleTitle": "Advanced Theory and Practices/03 Nuanced Hooks/Introduction to Nuanced Hooks"
+  },
+  "theme": {
+    "mode": "dark"
+  },
+  "overview": {
+    "quote": "Hook templates are like giving a man a fish. Hook structures teach you how to fish.",
+    "introText": "Tired of those fill-in-the-blank hook templates that never quite deliver? Let's explore the difference between trendy hook templates and timeless hook structures that tap into human psychology."
+  },
+  "keyTerms": [
+    {
+      "term": "HOOK STRUCTURES",
+      "definition": "Psychological frameworks for grabbing attention that remain effective regardless of changing language trends or platform algorithms."
+    },
+    {
+      "term": "HOOK TEMPLATES",
+      "definition": "Trend-based fill-in-the-blank formulas that quickly become overused, predictable, and ineffective on social media."
+    },
+    {
+      "term": "HOOK-FIRST SCRIPTING",
+      "definition": "Building your entire content around a strategic hook rather than adding one as an afterthought."
+    },
+    {
+      "term": "NOVELTY FACTOR",
+      "definition": "The psychological principle that human brains are naturally drawn to fresh, unexpected content over familiar patterns."
+    }
+  ],
+  "actionPlan": [
+    "Audit your recent hooks for template clichés",
+    "Identify one hook structure to try this week",
+    "Rewrite your next video script hook-first",
+    "Test a hook structure across different topics",
+    "Compare engagement between template vs structure"
+  ],
+  "takeaways": [
+    {
+      "mainContent": {
+        "title": "The Template Trap",
+        "text": "Hook templates quickly lose effectiveness as they saturate platforms. When everyone uses the same formulas, viewers develop 'template blindness' and scroll past."
+      },
+      "summaryPoints": [
+        "Templates work briefly then become ineffective",
+        "Trend-based hooks have short lifespans",
+        "Overused hooks feel manipulative to viewers",
+        "Templates lack psychological understanding"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "Psychology Over Phrases",
+        "text": "Hook structures tap into fundamental human psychology that hasn't changed for centuries. They're adaptable frameworks rather than rigid formulas."
+      },
+      "summaryPoints": [
+        "Structures remain effective across platforms",
+        "Focus on psychological triggers not phrases",
+        "Evergreen appeal regardless of trends",
+        "Adaptable to your unique voice and content"
+      ],
+      "type": "right"
+    },
+    {
+      "mainContent": {
+        "title": "Hook-First Content Creation",
+        "text": "Design your entire video around your hook rather than adding it as an afterthought. This ensures coherence and delivers on the promise that got viewers to stop scrolling."
+      },
+      "summaryPoints": [
+        "Start with the hook, then build content",
+        "Ensures hook and content alignment",
+        "Creates more coherent storytelling",
+        "Improves follow-through on promises"
+      ],
+      "type": "left"
+    }
+  ],
+  "proTips": [
+    {
+      "text": "The first 3 seconds make or break your video. Spend 30% of your creation time perfecting just the hook structure."
+    },
+    {
+      "text": "For maximum impact, combine two different hook structures in unexpected ways - like a False Assumption with a Big/Small contrast."
+    }
+  ],
+  "finalWords": {
+    "reminder": "Remember...",
+    "emphasis": "FOUNDATIONS",
+    "description": "The hook is 80% of a video's success. Master structures, not templates."
+  },
+  "tables": []
+}

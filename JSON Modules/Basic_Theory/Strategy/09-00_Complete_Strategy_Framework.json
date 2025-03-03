@@ -1,0 +1,122 @@
+{
+  "moduleInfo": {
+    "moduleNumber": "09.00",
+    "sectionName": "Basic Theory and Practices",
+    "moduleTitle": "Basic Theory and Practices/09 Strategy Pillars Topics Buckets/Complete Strategy Framework"
+  },
+  "theme": {
+    "mode": "light"
+  },
+  "overview": {
+    "quote": "Creating a strategy is like building your North Star – it guides every content decision and ensures you attract the right audience for the right reasons.",
+    "introText": "A successful short-form content strategy combines three key elements: pillars that define what you stand for, topics that connect with audience interests, and content buckets that create recognizable, repeatable formats viewers love."
+  },
+  "keyTerms": [
+    {
+      "term": "CONTENT PILLARS",
+      "definition": "The 3-5 core themes or areas of expertise that define your brand and consistently appear across your content."
+    },
+    {
+      "term": "CONTENT BUCKETS",
+      "definition": "Repeatable video formats that combine pillars, topics and framing into recognizable 'shows' viewers come to expect."
+    },
+    {
+      "term": "70-20-10 RULE",
+      "definition": "Content distribution with 70% broad appeal, 20% focused educational, and 10% niche high-converting content."
+    },
+    {
+      "term": "ALGORITHMIC VELOCITY",
+      "definition": "The momentum gained when platforms recognize your content patterns and consistently show videos to the right audience."
+    },
+    {
+      "term": "PRE-VALIDATED FRAMING",
+      "definition": "Content structures (like listicles or reactions) that already perform well on social platforms."
+    }
+  ],
+  "actionPlan": [
+    "Define 3-4 core pillars you want to be known for",
+    "Research 3 specific topics per pillar that people discuss",
+    "Combine topics with proven formats to create buckets",
+    "Create a content calendar using the 70-20-10 rule",
+    "Test buckets consistently before deciding their worth"
+  ],
+  "takeaways": [
+    {
+      "mainContent": {
+        "title": "Start With Solid Pillars",
+        "text": "Your pillars are your foundation – the 3-4 themes you want to be known for. They should reflect your authentic interests while having enough appeal to attract an audience. A unique combination sets you apart from competitors."
+      },
+      "summaryPoints": [
+        "Choose 3-4 authentic themes",
+        "Embrace variety across pillars",
+        "Ensure each has depth for ongoing content",
+        "Be someone with interests, not just a niche"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "Connect Through Topics",
+        "text": "Topics bridge your pillars to your audience's interests. Research subreddits, comment sections, and forums to find what people actually discuss. Focus on problems, questions, and trends where your perspective adds unique value."
+      },
+      "summaryPoints": [
+        "Research where conversations happen",
+        "Focus on real audience problems",
+        "Find what generates engagement",
+        "Add your unique perspective"
+      ],
+      "type": "right"
+    },
+    {
+      "mainContent": {
+        "title": "Create Recognizable Buckets",
+        "text": "Content buckets = Pillars × Topics ÷ Pre-validated Framing. They're your repeatable 'shows' that make creation easier and help viewers know what to expect. Test multiple videos in each bucket before judging performance."
+      },
+      "summaryPoints": [
+        "Start with 3-5 test buckets",
+        "Use formats that already work on platforms",
+        "Give each bucket multiple attempts",
+        "Iterate based on engagement data"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "Balance Your Content Mix",
+        "text": "Apply the 70-20-10 rule when starting out: 70% broad/entertaining content to attract viewers, 20% focused content to build trust, and 10% niche content for conversions. This creates a natural audience funnel."
+      },
+      "summaryPoints": [
+        "Broad content builds initial audience",
+        "Focused content builds deeper connection",
+        "Niche content drives conversions",
+        "Adjust ratios as your account grows"
+      ],
+      "type": "right"
+    }
+  ],
+  "proTips": [
+    {
+      "text": "Save your strongest calls-to-action for your 10% niche content where viewers are already highly engaged with your message."
+    },
+    {
+      "text": "Viewers remember your 'bucket' before they remember your name – consistency in formats builds recognition faster than branding."
+    }
+  ],
+  "finalWords": {
+    "reminder": "Remember...",
+    "emphasis": "Strategy before content, always",
+    "description": "Planning your framework first makes every content decision easier later on!"
+  },
+  "tables": [
+    {
+      "title": "The Complete Strategy Framework",
+      "headers": ["Element", "Purpose", "Starting Point", "Success Indicator"],
+      "rows": [
+        ["Pillars", "Define your brand", "3-4 themes", "Authentic & appealing"],
+        ["Topics", "Connect to audience", "3 per pillar", "Generate discussion"],
+        ["Buckets", "Create templates", "3-5 formats", "Repeatable & engaging"],
+        ["Content Mix", "Build funnel", "70-20-10 ratio", "Growth & conversion"]
+      ]
+    }
+  ]
+}

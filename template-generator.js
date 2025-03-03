@@ -3,7 +3,7 @@ const path = require('path');
 const TextureManager = require('./texture-config');
 
 class PDFTemplateGenerator {
-  constructor(templateConfig) {
+  constructor(templateConfig, sourcePath) {
     // Validate required structure
     const requiredFields = [
       'moduleInfo.moduleNumber',
@@ -30,8 +30,23 @@ class PDFTemplateGenerator {
       ...templateConfig,
     };
 
-    // Set texture paths based on variant
+    // Calculate the output path based on module structure
+    const moduleNum = templateConfig.moduleInfo.moduleNumber.toString().replace('.', '').padStart(4, '0');
+    const parsedFile = path.parse(templateConfig.moduleInfo.moduleTitle);
     
+    // Check if filename already starts with a module number pattern (e.g., M01, Module01, 01_, etc.)
+    const hasModulePrefix = /^(?:M|Module|VS)?[0-9]{2,4}[_-]/.test(parsedFile.name);
+    const baseFileName = hasModulePrefix ? 
+      parsedFile.name : 
+      `VS${moduleNum}_${parsedFile.name}`;
+
+    // Get the actual path of the JSON file relative to outputs directory
+    const relativeToOutputs = path.relative(outputBaseDir, path.dirname(sourcePath));
+    
+    // Calculate how many levels deep we are from the outputs directory
+    const dirLevels = relativeToOutputs.split('/').filter(Boolean).length;
+    // Add one level to get out of the outputs directory
+    this.texturesPath = '../'.repeat(dirLevels - 1);
 
     this.themeVariants = {
       light: {
@@ -52,6 +67,24 @@ class PDFTemplateGenerator {
       }
     };
     this.textureManager = new TextureManager(this.config.theme.mode, this.config.theme.variant);
+  }
+
+  calculateTexturesPath(modulePath) {
+    // Normalize the path to use forward slashes
+    const normalizedPath = modulePath.replace(/\\/g, '/');
+    
+    // Split the path into segments and count the levels after 'outputs'
+    const segments = normalizedPath.split('/');
+    const outputsIndex = segments.findIndex(segment => segment === 'outputs');
+    
+    // Count how many segments are after 'outputs'
+    // For example:
+    // "outputs/Basic_Theory/04-Algorithmic-Reality/file.html" -> 2 levels (needs ../../../)
+    // "outputs/Posting_Scheduling/file.html" -> 1 level (needs ../../)
+    const levelsAfterOutputs = segments.slice(outputsIndex + 1, -1).length;
+    
+    // Add one ../ for each level after outputs, plus one more to get to the root where textures is
+    return '../'.repeat(levelsAfterOutputs + 2);
   }
 
   determineContentType(config) {
@@ -139,12 +172,6 @@ class PDFTemplateGenerator {
       min-height: 100vh;
     }
 
-    /*
-      Container with 12 columns, 14 rows total:
-      - Rows 1..4 => locked EXACTLY as your old code
-      - Rows 5..8 => also locked so Key Terms & Action Plan don't push each other
-      - Rows 9..14 => auto for the rest
-    */
     .container {
       width: 235mm;
       margin: 0;
@@ -156,7 +183,7 @@ class PDFTemplateGenerator {
         repeat(16, auto);
       gap: 0;
       background-image: 
-        url('/Volumes/JC SSD/000-CCH/04-Course/PDFs/Codes/textures/themes${themeFolder}/Peachy.jpg'), linear-gradient(
+        url('${this.texturesPath}textures/themes${themeFolder}/Peachy.jpg'), linear-gradient(
           to bottom,
           rgba(255, 255, 255, 0) 50%,
           rgba(0, 0, 0, 0.50) 100%
@@ -176,7 +203,7 @@ class PDFTemplateGenerator {
       grid-row: 1 / 1;
       width: 13mm;
       height: 13mm;
-      background-image: url('/Users/jodennewman/Pictures/00–Clash Creation Assets/Logos:banners/PeachRebrand/Finals/RoundedWorking01.png');
+      background-image: url('${this.texturesPath}textures/logos/RoundedWorking01.png');
       background-size: contain;
       background-repeat: no-repeat;
       background-position: center;
@@ -196,7 +223,7 @@ class PDFTemplateGenerator {
     }
     .title-left {
       background-color: #264653;
-      background-image: url('/Volumes/JC SSD/000-CCH/04-Course/PDFs/Codes/textures/themes${themeFolder}/DARKBLUE2.jpg');
+      background-image: url('${this.texturesPath}textures/themes${themeFolder}/DARKBLUE2.jpg');
       background-size: 100% auto;
       background-position: bottom;
       padding: 15px;
@@ -250,7 +277,7 @@ class PDFTemplateGenerator {
     }
     .title-right {
       background-color: ${this.config.theme.mode === 'light' ? 'rgba(200, 167, 159, 0.3)' : 'rgba(68, 214, 202, 0.27)'};
-      background-image: url('/Volumes/JC SSD/000-CCH/04-Course/PDFs/Codes/textures/themes${themeFolder}/VerticalBG.jpg');
+      background-image: url('${this.texturesPath}textures/themes${themeFolder}/VerticalBG.jpg');
       background-size: 150% auto;
       background-blend-mode: ${this.config.theme.mode === 'light' ? 'lighten' : 'color-burn'};
       padding: 15px 10px;   /* Increased vertical padding */
@@ -272,7 +299,7 @@ class PDFTemplateGenerator {
       margin-right: auto;
       margin-top: -8px;
       margin-bottom: 3px;
-      background-image: url('/Volumes/JC SSD/000-CCH/04-Course/PDFs/Codes/textures/themes${themeFolder}/WordMark.png');
+      background-image: url('${this.texturesPath}textures/themes${themeFolder}/WordMark.png');
       background-size: contain;
       background-repeat: no-repeat;
       background-position: 50% 0%;
@@ -315,7 +342,7 @@ class PDFTemplateGenerator {
       grid-row: 4 / 5;
       grid-column: 1 / 7;
       background-color: #e9c46a;
-      background-image: url('/Volumes/JC SSD/000-CCH/04-Course/PDFs/Codes/textures/themes${themeFolder}/Artboard 6.jpg');
+      background-image: url('${this.texturesPath}textures/themes${themeFolder}/Artboard 6.jpg');
       background-size: cover;
       margin: 3px;
       padding: 5px 10px;
@@ -335,7 +362,7 @@ class PDFTemplateGenerator {
       grid-column: 7 / 13;
       grid-row: 4 / 5;
       background-color: #264653;
-      background-image: url('/Volumes/JC SSD/000-CCH/04-Course/PDFs/Codes/textures/themes${themeFolder}/DARKBLUE2.jpg');
+      background-image: url('${this.texturesPath}textures/themes${themeFolder}/DARKBLUE2.jpg');
       background-size: 100% auto;
       filter: brightness(1.25);
       background-position: bottom;
@@ -355,7 +382,7 @@ class PDFTemplateGenerator {
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url('/Volumes/JC SSD/000-CCH/04-Course/PDFs/Codes/textures/themes${themeFolder}/DARKBLUE2.jpg');
+  background-image: url('${this.texturesPath}textures/themes${themeFolder}/DARKBLUE2.jpg');
   background-size: 120% auto;
   background-position: bottom;  /* Change to top since we're flipping */
   transform: scaleY(-1);
@@ -397,13 +424,13 @@ class PDFTemplateGenerator {
       color: ${colors.text};
       initial-letter: 2 1; /* slightly smaller to reduce row height ~11px */
       margin-right: 0.4em;
-      margin-top: 10%;
-      background-image: url('/Volumes/JC SSD/000-CCH/04-Course/PDFs/Codes/textures/themes${themeFolder}/SomethingGeometric.png');
+      margin-top: 8.5%;
+      background-image: url('${this.texturesPath}textures/themes${themeFolder}/SomethingGeometric.png');
       background-size: auto 190%;
       background-position: 18% 50%;
       border-top-left-radius: 1.5em;
       border-bottom-right-radius: 1.5em;
-      padding: 0.8em 0.8em 0.8rem 0.8rem;
+      padding: 0.8em 0.4em 0.8rem 0.8rem;
     }
     .intro p {
       font-family: 'Neue Haas Grotesk Display Pro', sans-serif;
@@ -421,7 +448,7 @@ class PDFTemplateGenerator {
           : 'rgba(38, 70, 83, 0.5)'}, 
         rgba(255, 255, 255, 0)
       );
-      /*   background-image: url('/Volumes/JC SSD/000-CCH/04-Course/PDFs/Codes/textures/themes${themeFolder}/Artboard 1.jpg');
+      /*   background-image: url('../textures/themes${themeFolder}/Artboard 1.jpg');
       background-size: auto 150%;
       background-position: 50% 20%;
       /* Add saturation filter */
@@ -437,7 +464,7 @@ class PDFTemplateGenerator {
       color: ${colors.text};
       padding: 5px 5px;
       margin-bottom: 10px;
-      background-image: url('/Volumes/JC SSD/000-CCH/04-Course/PDFs/Codes/textures/themes${themeFolder}/Artboard 6.jpg');
+      background-image: url('${this.texturesPath}textures/themes${themeFolder}/Artboard 6.jpg');
       background-size: 100% auto;
       
       font-size: 1.3rem;
@@ -489,7 +516,7 @@ class PDFTemplateGenerator {
     /* Title for Action Plan in a separate mustard block. */
     .action-plan-title {
       background-color: #e9c46a;
-      background-image: url('/Volumes/JC SSD/000-CCH/04-Course/PDFs/Codes/textures/themes${themeFolder}/yellowGeom-2.png');
+      background-image: url('${this.texturesPath}textures/themes${themeFolder}/yellowGeom-2.png');
       background-size: cover;
       color: ${colors.text};
       stroke-width: 10px;
@@ -512,7 +539,7 @@ class PDFTemplateGenerator {
     /* Body of Action Plan => new background image with your specs */
     .action-plan-body {
       flex-grow: 1;  /* This will make it fill available space */
-      background-image: url('/Volumes/JC SSD/000-CCH/04-Course/PDFs/Codes/textures/themes${themeFolder}/yellowGeom-2.png');
+      background-image: url('${this.texturesPath}textures/themes${themeFolder}/yellowGeom-2.png');
       background-size: auto 140%;
       background-position: 50% 0%;
       margin-left: 2.5px;
@@ -609,7 +636,7 @@ class PDFTemplateGenerator {
       grid-row: 11 / 12;
       grid-column: 2 / 12;
       background-color: #fefefe;
-      background-image: url('/Volumes/JC SSD/000-CCH/04-Course/PDFs/Codes/textures/themes${themeFolder}/protip.jpg');
+      background-image: url('${this.texturesPath}textures/themes${themeFolder}/protip.jpg');
       background-size: cover;
       border-radius: 1.1rem;
       color: #fff7e4;
@@ -750,7 +777,7 @@ class PDFTemplateGenerator {
       grid-column: 1 / 9;  /* 2/3 width */
       grid-row: auto;
       background-color: #f4a261;
-      background-image: url('/Volumes/JC SSD/000-CCH/04-Course/PDFs/Codes/textures/themes${themeFolder}/Artboard 10.jpg');
+      background-image: url('${this.texturesPath}textures/themes${themeFolder}/Artboard 10.jpg');
       background-size: 100% auto;
       padding: 30px;
       color: #fff7e4;
@@ -762,7 +789,7 @@ class PDFTemplateGenerator {
       grid-column: 9 / 13;
       grid-row: auto;
       background-color: #e9c46a;
-      background-image: url('/Volumes/JC SSD/000-CCH/04-Course/PDFs/Codes/textures/themes${themeFolder}/Artboard 1.jpg');
+      background-image: url('${this.texturesPath}textures/themes${themeFolder}/Artboard 1.jpg');
       background-size: auto 190%;
       background-position: 70% 50%;
       font-weight: 500;
@@ -798,7 +825,7 @@ class PDFTemplateGenerator {
       grid-column: 5 / 13;  /* 2/3 width, but on right */
       grid-row: auto;
       background-color: #264653;
-      background-image: url('/Volumes/JC SSD/000-CCH/04-Course/PDFs/Codes/textures/themes${themeFolder}/DARKBLUE2.jpg');
+      background-image: url('${this.texturesPath}textures/themes${themeFolder}/DARKBLUE2.jpg');
       background-size: 100% auto;
       padding: 20px;
       color: ${colors.lightText};
@@ -810,7 +837,7 @@ class PDFTemplateGenerator {
       grid-column: 1 / 5;  /* 1/3 width, but on left */
       grid-row: auto;
       background-color: #e9c46a;
-      background-image: url('/Volumes/JC SSD/000-CCH/04-Course/PDFs/Codes/textures/themes${themeFolder}/Main5.jpg');
+      background-image: url('${this.texturesPath}textures/themes${themeFolder}/Main5.jpg');
       background-size:auto 190%;
       background-position: 100% 50%;
       transform: scaleX(-1);  /* Flip the background */
@@ -952,7 +979,7 @@ class PDFTemplateGenerator {
     .table-container {
       grid-column: 2 / 12;
       margin: 20px 0;
-      background-image: url('/Volumes/JC SSD/000-CCH/04-Course/PDFs/Codes/textures/themes${themeFolder}/DARKBLUE2.jpg');
+      background-image: url('${this.texturesPath}textures/themes${themeFolder}/DARKBLUE2.jpg');
       background-size: cover;
       background-position: bottom;
       border-radius: 35px;
@@ -1298,7 +1325,7 @@ class PDFTemplateGenerator {
       <div class="footer">
         <div>© Clash Creation LTD. All Rights Reserved</div>
         <div class="bottom-right-image">
-          <img src='/Users/jodennewman/Pictures/00–Clash Creation Assets/Logos:banners/PeachRebrand/WordMark-and-Symbol/Logo-One-Line-Light-for-Dark.png' alt="Clash Logo">
+          <img src='${this.texturesPath}textures/logos/Logo-One-Line-Light-for-Dark.png' alt="Clash Logo">
         </div>
       </div>
     `;
@@ -1409,20 +1436,30 @@ async function generateAllModules() {
         try {
           const config = JSON.parse(fs.readFileSync(sourcePath, 'utf8'));
           
+          // Format module number with leading zeros and remove periods
+          const moduleNum = config.moduleInfo.moduleNumber.toString().replace('.', '').padStart(4, '0');
+          const parsedFile = path.parse(file);
+          
+          // Check if filename already starts with a module number pattern (e.g., M01, Module01, 01_, etc.)
+          const hasModulePrefix = /^(?:M|Module|VS)?[0-9]{2,4}[_-]/.test(parsedFile.name);
+          const baseFileName = hasModulePrefix ? 
+            parsedFile.name : 
+            `VS${moduleNum}_${parsedFile.name}`;
+          
           // Generate light version
           const lightConfig = { ...config, theme: { mode: 'light' }};
-          const lightGenerator = new PDFTemplateGenerator(lightConfig);
+          const lightGenerator = new PDFTemplateGenerator(lightConfig, sourcePath);
           const lightHtml = lightGenerator.generateHTML();
           
           // Generate dark version
           const darkConfig = { ...config, theme: { mode: 'dark' }};
-          const darkGenerator = new PDFTemplateGenerator(darkConfig);
+          const darkGenerator = new PDFTemplateGenerator(darkConfig, sourcePath);
           const darkHtml = darkGenerator.generateHTML();
           
           const relativeDir = path.relative(sourceDir, dir);
           const outputDir = path.join(outputBaseDir, relativeDir);
-          const lightOutputPath = path.join(outputDir, `${path.parse(file).name}-light.html`);
-          const darkOutputPath = path.join(outputDir, `${path.parse(file).name}-dark.html`);
+          const lightOutputPath = path.join(outputDir, `${baseFileName}-light.html`);
+          const darkOutputPath = path.join(outputDir, `${baseFileName}-dark.html`);
           
           fs.writeFileSync(lightOutputPath, lightHtml);
           fs.writeFileSync(darkOutputPath, darkHtml);

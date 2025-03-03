@@ -1,0 +1,99 @@
+{
+  "moduleInfo": {
+    "moduleNumber": "04.04",
+    "sectionName": "Basic Theory and Practices",
+    "moduleTitle": "Basic Theory and Practices/04 Algorithmic Reality/Platform Differences"
+  },
+  "theme": {
+    "mode": "dark"
+  },
+  "overview": {
+    "quote": "A good video is a good video, full stop, and from my experience will perform well on all platforms.",
+    "introText": "Understanding subtle algorithmic differences between major short-form platforms while recognizing the universal principles that drive engagement across all of them."
+  },
+  "keyTerms": [
+    {
+      "term": "PLATFORM WEIGHTING",
+      "definition": "How different algorithms prioritize certain metrics (shares, comments, watch time) compared to others."
+    },
+    {
+      "term": "DEMOGRAPHIC CONTEXT",
+      "definition": "How user behavior changes between platforms based on social context and intended platform use."
+    },
+    {
+      "term": "FORMAT OPTIMIZATION",
+      "definition": "Adjusting content length, style, and presentation to match platform-specific preferences."
+    },
+    {
+      "term": "CROSS-PLATFORM DYNAMICS",
+      "definition": "How similar content performs across different platforms relative to platform-specific averages."
+    }
+  ],
+  "actionPlan": [
+    "Test identical content across platforms",
+    "Identify your highest-performing platform",
+    "Adjust content length for each platform",
+    "Analyze engagement type differences by platform"
+  ],
+  "takeaways": [
+    {
+      "mainContent": {
+        "title": "Core Similarities",
+        "text": "All short-form platforms have the same goal: maximizing user watch time. Despite differences, a truly engaging video will perform well everywhere, just with varying view counts."
+      },
+      "summaryPoints": [
+        "Same fundamental purpose",
+        "Universal principles apply",
+        "Success scales relatively"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "Instagram vs. TikTok",
+        "text": "Instagram prioritizes shorter, more visual content with high completion rates and shares, while TikTok favors longer, dialogue-heavy videos that generate conversation in comments."
+      },
+      "summaryPoints": [
+        "Instagram: visual, brief, aesthetic",
+        "TikTok: conversational, longer, authentic",
+        "Both value shares differently"
+      ],
+      "type": "right"
+    },
+    {
+      "mainContent": {
+        "title": "Length Optimization",
+        "text": "Ultra-short content (under 7 seconds) can perform well on Instagram but might be flagged as spam on TikTok. Each platform has ideal length ranges based on user behavior."
+      },
+      "summaryPoints": [
+        "Instagram: shorter = better",
+        "TikTok: minimum effective length",
+        "Test optimal times per platform"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "User Context Matters More",
+        "text": "Focus less on algorithm differences and more on how users behave differently across platforms. TikTok users are anonymous entertainment-seekers; Instagram users are social and identity-focused."
+      },
+      "summaryPoints": [
+        "Platform identity affects engagement",
+        "User expectations vary",
+        "Content sharing dynamics differ"
+      ],
+      "type": "right"
+    }
+  ],
+  "proTips": [
+    {
+      "text": "Don't chase algorithm updates—they change constantly. Instead, test which format types consistently perform well for your niche on each platform."
+    }
+  ],
+  "finalWords": {
+    "reminder": "Remember...",
+    "emphasis": "Content quality transcends platform differences",
+    "description": "Great content works everywhere; optimize format but prioritize engagement."
+  },
+  "tables": []
+}

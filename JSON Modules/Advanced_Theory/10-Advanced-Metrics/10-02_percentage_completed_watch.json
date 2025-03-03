@@ -1,0 +1,91 @@
+{
+  "moduleInfo": {
+    "moduleNumber": "10.02",
+    "sectionName": "Advanced Theory and Practices",
+    "moduleTitle": "Advanced Theory and Practices/10 Advanced Engagement Metrics/Percentage Completed Watch"
+  },
+  "theme": {
+    "mode": "dark"
+  },
+  "overview": {
+    "quote": "Not just retention in a different outfit—it's the percentage of people who stuck around until the very end.",
+    "introText": "While closely related to retention, percentage completed watch has become increasingly important to algorithms as platforms seek to reward truly satisfying content."
+  },
+  "keyTerms": [
+    {
+      "term": "COMPLETED VIEW RATE",
+      "definition": "The percentage of viewers who watch your video all the way to the end."
+    },
+    {
+      "term": "RETENTION DROP",
+      "definition": "Points in your video where viewers tend to leave, often caused by fluff or unnecessary content."
+    },
+    {
+      "term": "ALGORITHMIC SATISFACTION",
+      "definition": "How platforms measure whether viewers feel their time was well-spent with your content."
+    },
+    {
+      "term": "CONTENT SATING",
+      "definition": "When viewers feel completely satisfied by your content, increasing likelihood of watching to completion."
+    }
+  ],
+  "actionPlan": [
+    "Ruthlessly cut fluff from your video endings",
+    "Aim for 33% completed view rate on 1-3 min videos",
+    "Test different video lengths to find your sweet spot",
+    "End videos at peak interest when possible",
+    "Track which topics have highest completion rates"
+  ],
+  "takeaways": [
+    {
+      "mainContent": {
+        "title": "Why Platforms Care About Completion",
+        "text": "Platforms prioritize completed watch rates because they demonstrate viewer satisfaction better than average view duration, which can be gamed with longer videos."
+      },
+      "summaryPoints": [
+        "TikTok shifted to prioritize completion over duration",
+        "Target 33% completed view rate for optimal push",
+        "Signals content quality from start to finish"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "Optimizing Your Video Length",
+        "text": "Different platforms have different preferences. TikTok favors videos over 1 minute (especially for Creator Fund eligibility), while Instagram can reward ultra-short content."
+      },
+      "summaryPoints": [
+        "TikTok minimum sweet spot: 1-1.5 minutes",
+        "Instagram can reward videos under 15 seconds",
+        "YouTube prefers longer content with high completion"
+      ],
+      "type": "right"
+    },
+    {
+      "mainContent": {
+        "title": "Editing for Higher Completion",
+        "text": "The most effective way to boost completion rates is ruthlessly cutting any content that doesn't maintain peak interest, especially at the end of your videos."
+      },
+      "summaryPoints": [
+        "Cut all post-hook resolution content",
+        "Remove thank yous and concluding statements",
+        "Consider ending mid-sentence at peak interest"
+      ],
+      "type": "left"
+    }
+  ],
+  "proTips": [
+    {
+      "text": "For extreme completion rates, try ending your video mid-sentence at the most interesting point. Viewers may even watch multiple times."
+    },
+    {
+      "text": "If your Creator Fund revenue matters, focus on TikTok's 1+ minute sweet spot with 33% completion rather than ultra-short content."
+    }
+  ],
+  "finalWords": {
+    "reminder": "Remember...",
+    "emphasis": "Viewers Voting With Their Time",
+    "description": "Every viewer who watches to the end tells algorithms your content is worth recommending."
+  },
+  "tables": []
+}

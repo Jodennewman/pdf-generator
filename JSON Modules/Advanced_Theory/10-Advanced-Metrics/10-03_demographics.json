@@ -1,0 +1,91 @@
+{
+  "moduleInfo": {
+    "moduleNumber": "10.03",
+    "sectionName": "Advanced Theory and Practices",
+    "moduleTitle": "Advanced Theory and Practices/10 Advanced Engagement Metrics/Demographics"
+  },
+  "theme": {
+    "mode": "dark"
+  },
+  "overview": {
+    "quote": "It might not be who you want to reach or who you think you're reaching.",
+    "introText": "Understanding your audience demographics helps you tailor content to the right people at the right time, maximizing both engagement and potential revenue."
+  },
+  "keyTerms": [
+    {
+      "term": "DEMOGRAPHIC TARGETING",
+      "definition": "Crafting content specifically to appeal to viewers of certain ages, regions, or interests."
+    },
+    {
+      "term": "RPM",
+      "definition": "Revenue Per Mille (thousand views) - payment rate that varies significantly based on viewer demographics."
+    },
+    {
+      "term": "AUDIENCE ALIGNMENT",
+      "definition": "How well your actual audience matches your target demographic for brand and business goals."
+    },
+    {
+      "term": "PEAK HOURS",
+      "definition": "Times when your target demographic is most active and likely to engage with your content."
+    }
+  ],
+  "actionPlan": [
+    "Identify your top geographic regions",
+    "Schedule posts during your audience's peak hours",
+    "Align content topics with demographic interests",
+    "Check if demographics match your business goals",
+    "Test region-specific references to boost engagement"
+  ],
+  "takeaways": [
+    {
+      "mainContent": {
+        "title": "Audience Intelligence",
+        "text": "Platforms reveal where your viewers come from, their age ranges, and their gender—crucial information that shows if you're reaching your intended audience."
+      },
+      "summaryPoints": [
+        "Use data to optimize posting schedules",
+        "Match content references to audience location",
+        "Identify misalignment with target demographics"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "The Revenue Connection",
+        "text": "For Creator Fund earnings, viewer demographics directly impact your RPM. Viewers from regions with higher spending power typically generate more revenue per view."
+      },
+      "summaryPoints": [
+        "UK/US viewers often yield higher RPM",
+        "Track demographic shifts when RPM changes",
+        "Balance reach vs. revenue in your strategy"
+      ],
+      "type": "right"
+    },
+    {
+      "mainContent": {
+        "title": "Strategic Adjustment",
+        "text": "When demographics surprise you, choose whether to realign content to reach your target audience or embrace and double down on the audience you're actually connecting with."
+      },
+      "summaryPoints": [
+        "Adapt to unexpected demographic success",
+        "Use references that resonate with actual viewers",
+        "Consider business implications of audience shifts"
+      ],
+      "type": "left"
+    }
+  ],
+  "proTips": [
+    {
+      "text": "If your Creator Fund earnings suddenly drop but views remain steady, check if your audience geography has shifted to regions with lower RPM."
+    },
+    {
+      "text": "Rather than fighting unexpected demographic success, consider pivoting your business strategy to serve the audience you're naturally reaching."
+    }
+  ],
+  "finalWords": {
+    "reminder": "Remember...",
+    "emphasis": "Your Real Audience Matters More Than Your Imagined One",
+    "description": "Be willing to adapt to who's actually engaging with your content."
+  },
+  "tables": []
+}

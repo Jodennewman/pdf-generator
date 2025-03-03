@@ -1,0 +1,105 @@
+{
+  "moduleInfo": {
+    "moduleNumber": "03.06",
+    "sectionName": "Advanced Theory and Practices",
+    "moduleTitle": "Advanced Theory and Practices/03 Nuanced Hooks/Breaking News Hook"
+  },
+  "theme": {
+    "mode": "dark"
+  },
+  "overview": {
+    "quote": "Scientists just found this in the Mariana Trench, and not a single one knows what the hell it is.",
+    "introText": "The Breaking News Hook taps into our hardwired attraction to novelty and urgency. Learn how to harness the power of recency to stop the scroll and boost your content's perceived value."
+  },
+  "keyTerms": [
+    {
+      "term": "URGENCY TRIGGER",
+      "definition": "The psychological principle that humans prioritize time-sensitive information over evergreen content due to survival instincts."
+    },
+    {
+      "term": "EXCLUSIVITY FACTOR",
+      "definition": "The perceived value of being among the first to learn about something new that drives social sharing behavior."
+    },
+    {
+      "term": "INFORMATION CURRENCY",
+      "definition": "The social capital gained from being the first to know and share new developments within your network."
+    },
+    {
+      "term": "JUST-HAPPENED FRAMING",
+      "definition": "Positioning content as extremely recent even when the information itself might not be breaking news."
+    }
+  ],
+  "actionPlan": [
+    "Set up alerts for breaking news in your niche",
+    "Create template for rapid breaking news videos",
+    "Test different urgency phrases beyond 'just'",
+    "Develop a system to verify trending topics",
+    "Compare engagement of timely vs evergreen content"
+  ],
+  "takeaways": [
+    {
+      "mainContent": {
+        "title": "The Power of 'Just'",
+        "text": "The word 'just' is the magic trigger that transforms ordinary content into must-watch material by creating a sense of immediacy and exclusivity."
+      },
+      "summaryPoints": [
+        "Creates artificial time pressure",
+        "Signals exclusive, fresh information",
+        "Taps into viewers' need to stay current",
+        "Works across all content categories"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "Relativity of Recency",
+        "text": "What counts as 'just happened' depends entirely on context. For timeless topics, even older information can be framed as recent to the viewer."
+      },
+      "summaryPoints": [
+        "New to your audience = effectively new",
+        "Frame information based on relevance",
+        "Create discovery moments for viewers",
+        "Balance recency with educational value"
+      ],
+      "type": "right"
+    },
+    {
+      "mainContent": {
+        "title": "Breaking News Scripting",
+        "text": "Design your entire video to maintain the urgency established by your hook. Keep the energy high and information flowing to match the promised immediacy."
+      },
+      "summaryPoints": [
+        "Start with high-energy delivery",
+        "Maintain urgency throughout",
+        "Use phrases like 'happening now'",
+        "End with forward-looking statements"
+      ],
+      "type": "left"
+    }
+  ],
+  "proTips": [
+    {
+      "text": "Combine 'breaking news' hooks with trending sounds/music on platforms like TikTok for an extra algorithm boost."
+    },
+    {
+      "text": "For evergreen content, use 'Scientists just discovered' instead of exact dates - it feels current without becoming dated."
+    }
+  ],
+  "finalWords": {
+    "reminder": "Remember...",
+    "emphasis": "URGENCY",
+    "description": "In a world of endless content, 'happening now' always wins."
+  },
+  "tables": [
+    {
+      "title": "Breaking News Phrase Power Ranking",
+      "headers": ["Phrase", "Urgency Level", "Best For", "Examples"],
+      "rows": [
+        ["Just happened", "Highest", "News", "Platform changes"],
+        ["Just launched", "High", "Products", "New features"],
+        ["Just discovered", "Medium", "Education", "Research findings"],
+        ["Just realized", "Low", "Personal", "Insights/tips"]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "moduleInfo": {
+    "moduleNumber": "10.04",
+    "sectionName": "Advanced Theory and Practices",
+    "moduleTitle": "Advanced Theory and Practices/10 Advanced Engagement Metrics/Traffic Sources"
+  },
+  "theme": {
+    "mode": "dark"
+  },
+  "overview": {
+    "quote": "It's not just about how many people watch, but how they found you in the first place.",
+    "introText": "Traffic sources reveal the journey viewers took to reach your content. Whether through the algorithm, your profile, or external links, each path tells a different story about your content's appeal and can guide your strategy."
+  },
+  "keyTerms": [
+    {
+      "term": "ALGORITHMIC FEED",
+      "definition": "The primary discovery mechanism where platforms recommend content to viewers (For You Page, Browse, Explore, etc.)."
+    },
+    {
+      "term": "PROFILE TRAFFIC",
+      "definition": "Views from people who visited your profile page and specifically chose your video from your collection."
+    },
+    {
+      "term": "EXTERNAL TRAFFIC",
+      "definition": "Views originating outside the platform, like from shared links, embedded videos, or other websites."
+    },
+    {
+      "term": "THROTTLING",
+      "definition": "When platforms limit a video's distribution in the algorithmic feed, often due to content concerns or low engagement."
+    }
+  ],
+  "actionPlan": [
+    "Check feed percentage (aim for 95%+)",
+    "Create content series to drive profile visits",
+    "Monitor unusual spikes in external traffic",
+    "Prompt viewers to check your profile",
+    "Adjust strategy if feed traffic is low"
+  ],
+  "takeaways": [
+    {
+      "mainContent": {
+        "title": "The Feed is King",
+        "text": "Aim for 95%+ of traffic from the algorithmic feed - this means the platform actively promotes your content. Low feed traffic may indicate throttling, content issues, or that the algorithm isn't confident in your video's appeal."
+      },
+      "summaryPoints": [
+        "High feed % = algorithmic endorsement",
+        "Vital for creator fund revenue",
+        "Hardest to manipulate artificially"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "The Profile Visit Value",
+        "text": "High profile traffic means viewers like your content enough to explore more. This indicates strong audience connection and potential for building a dedicated following rather than just viral one-offs."
+      },
+      "summaryPoints": [
+        "Indicates viewer investment",
+        "Shows content series potential",
+        "Can be prompted with CTAs"
+      ],
+      "type": "right"
+    },
+    {
+      "mainContent": {
+        "title": "External Traffic Insights",
+        "text": "Sudden spikes in external traffic mean your content is being shared or discussed elsewhere. This could indicate going viral on other platforms, being featured in articles, or targeted bot activity."
+      },
+      "summaryPoints": [
+        "Monitor for unexpected changes",
+        "May explain comment section shifts",
+        "Doesn't count for creator fund"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "The Follower-Only Trap",
+        "text": "If most traffic comes from followers rather than the feed, you're in a growth plateau. Your content may feel insider-focused or rely on previous knowledge, making it less accessible to new viewers."
+      },
+      "summaryPoints": [
+        "Requires more universal hooks",
+        "Indicates algorithm hesitation",
+        "Leads to audience shrinkage"
+      ],
+      "type": "right"
+    }
+  ],
+  "proTips": [
+    {
+      "text": "External traffic from friends won't trick the algorithm - engagement needs to come organically from the feed to count."
+    },
+    {
+      "text": "If using friends to jumpstart comments, have them ask provocative questions rather than posting generic praise."
+    }
+  ],
+  "finalWords": {
+    "reminder": "Remember...",
+    "emphasis": "How they find you shapes how they engage",
+    "description": "Each traffic source requires different optimization strategies."
+  },
+  "tables": [
+    {
+      "title": "Traffic Source Optimization",
+      "headers": ["Traffic Source", "What It Means", "How To Optimize"],
+      "rows": [
+        ["Feed (<95%)", "Algorithm hesitant", "Improve hooks, engagement"],
+        ["Profile (High)", "Strong fan interest", "Create content series"],
+        ["External (Spike)", "Outside discussion", "Check for mentions/shares"],
+        ["Followers (>50%)", "Growth plateau", "Make hooks more universal"]
+      ]
+    }
+  ]
+}

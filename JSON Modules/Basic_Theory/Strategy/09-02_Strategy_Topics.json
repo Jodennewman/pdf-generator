@@ -1,0 +1,94 @@
+{
+  "moduleInfo": {
+    "moduleNumber": "09.02",
+    "sectionName": "Basic Theory and Practices",
+    "moduleTitle": "Basic Theory and Practices/09 Strategy Pillars Topics Buckets/Strategy Topics"
+  },
+  "theme": {
+    "mode": "light"
+  },
+  "overview": {
+    "quote": "Topics are focused subjects that live under each pillar – they're where your pillars intersect with what people care about.",
+    "introText": "Once you've established your pillars, you need to break them down into specific topics that resonate with your audience. These topics are the bridge between your big ideas and the conversations people are already having."
+  },
+  "keyTerms": [
+    {
+      "term": "TOPIC MAPPING",
+      "definition": "Breaking down pillars into specific subjects that connect with audience interests and current conversations."
+    },
+    {
+      "term": "AUDIENCE RELEVANCE",
+      "definition": "How well your chosen topics address problems, questions, or interests your target audience actually has."
+    },
+    {
+      "term": "CONTENT DEPTH",
+      "definition": "Having enough variation within each topic to create multiple pieces of engaging content over time."
+    },
+    {
+      "term": "CONVERSATION STARTERS",
+      "definition": "Topics that naturally spark engagement, comments, and sharing due to their relevance to current discussions."
+    }
+  ],
+  "actionPlan": [
+    "List the ways each pillar affects people",
+    "Research common problems in each area",
+    "Find trending conversations in your field",
+    "Test topics for audience engagement",
+    "Aim for 3 strong topics per pillar"
+  ],
+  "takeaways": [
+    {
+      "mainContent": {
+        "title": "Topics Bridge Pillars to People",
+        "text": "Topics translate your big-picture pillars into focused subjects people actually discuss. They're specific areas where your expertise meets audience interest – like 'toxic boss behaviors' under a 'healthy work culture' pillar."
+      },
+      "summaryPoints": [
+        "Make abstract pillars concrete",
+        "Connect to real audience problems",
+        "Provide structure for ideation",
+        "Keep content varied but cohesive"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "Research-Driven Topic Selection",
+        "text": "Find topics through research on Reddit, forums, and comment sections. Look for discussions that generate high engagement and questions people are actually asking. Always ask: 'What can I add to this conversation?'"
+      },
+      "summaryPoints": [
+        "Study online communities for insights",
+        "Identify high-engagement subjects",
+        "Focus on real problems people face",
+        "Add your unique perspective"
+      ],
+      "type": "right"
+    },
+    {
+      "mainContent": {
+        "title": "Building Your Topic Library",
+        "text": "Aim for about three solid topics per pillar to start. These topics should be evergreen enough to support ongoing content but specific enough to connect with real audience needs and interests."
+      },
+      "summaryPoints": [
+        "Start with 3 topics per pillar",
+        "Verify topics generate discussion",
+        "Balance evergreen and trending topics",
+        "Choose topics with multiple content angles"
+      ],
+      "type": "left"
+    }
+  ],
+  "proTips": [
+    {
+      "text": "Look at what topics your competitors avoid – these gaps might be your opportunity to stand out with unique content."
+    },
+    {
+      "text": "The best topics often sit at the intersection of what you're passionate about and what keeps your audience up at night."
+    }
+  ],
+  "finalWords": {
+    "reminder": "Remember...",
+    "emphasis": "Listen before you speak",
+    "description": "Great topics come from understanding what your audience already cares about."
+  },
+  "tables": []
+}

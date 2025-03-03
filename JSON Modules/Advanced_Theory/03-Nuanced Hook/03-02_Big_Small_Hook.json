@@ -1,0 +1,105 @@
+{
+  "moduleInfo": {
+    "moduleNumber": "03.02",
+    "sectionName": "Advanced Theory and Practices",
+    "moduleTitle": "Advanced Theory and Practices/03 Nuanced Hooks/Big Small Hook"
+  },
+  "theme": {
+    "mode": "light"
+  },
+  "overview": {
+    "quote": "How did something so small get so big? Or how did something so big become so small?",
+    "introText": "The Big/Small Hook creates an irresistible contrast between extremes. Learn how to leverage this psychological pattern to instantly grab attention and keep viewers curious until the very end."
+  },
+  "keyTerms": [
+    {
+      "term": "BIG/SMALL CONTRAST",
+      "definition": "A storytelling technique that highlights extreme differences between two elements to create intrigue and narrative tension."
+    },
+    {
+      "term": "SENSATIONALISM",
+      "definition": "Strategic exaggeration of contrasting elements to heighten viewer interest and emotional response in content."
+    },
+    {
+      "term": "CAUSATION IMPLICATION",
+      "definition": "Suggesting a direct link between dramatically different elements to build curiosity about the connecting journey."
+    },
+    {
+      "term": "STORY SETUP",
+      "definition": "Creating a clear beginning and end point that makes viewers curious about the transformative journey between them."
+    }
+  ],
+  "actionPlan": [
+    "List 5 extreme contrasts in your niche",
+    "Create 3 Big/Small hooks for your next video",
+    "Test different contrast levels in your hooks",
+    "Film a before/after transformation story",
+    "Analyze which Big/Small hooks get more views"
+  ],
+  "takeaways": [
+    {
+      "mainContent": {
+        "title": "The Perfect Contrast",
+        "text": "The greater the contrast between your two elements, the more compelling your hook. Look for dramatic differences that seem almost impossible."
+      },
+      "summaryPoints": [
+        "Find genuinely surprising contrasts",
+        "Use specific numbers when possible",
+        "Emphasize the transformation journey",
+        "Balance sensationalism with authenticity"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "Origin Story Gold",
+        "text": "Big/Small hooks work brilliantly for business origin stories, personal transformations, and any content showing dramatic change over time."
+      },
+      "summaryPoints": [
+        "Perfect for entrepreneurial journeys",
+        "Ideal for health/fitness transformations",
+        "Great for skill development showcases",
+        "Powerful for financial change stories"
+      ],
+      "type": "right"
+    },
+    {
+      "mainContent": {
+        "title": "Setting Up The Journey",
+        "text": "The Big/Small hook creates built-in narrative tension. Viewers will watch to the end to discover how the transformation happened."
+      },
+      "summaryPoints": [
+        "Start with the contrast in first 3 seconds",
+        "Save the connecting journey for later",
+        "Create curiosity about the 'how'",
+        "End with the most valuable insights"
+      ],
+      "type": "left"
+    }
+  ],
+  "proTips": [
+    {
+      "text": "For maximum impact, make your Big/Small hook visually apparent too - show the contrast on screen while stating it."
+    },
+    {
+      "text": "Use the Big/Small structure for titles too: 'How I Turned My £5 Garage Sale Find Into a £50,000 Business'"
+    }
+  ],
+  "finalWords": {
+    "reminder": "Remember...",
+    "emphasis": "CONTRAST",
+    "description": "The more dramatic the difference, the more compelling your content."
+  },
+  "tables": [
+    {
+      "title": "Big/Small Hook Formula Examples",
+      "headers": ["Start With", "Connect With", "End With", "Example"],
+      "rows": [
+        ["Tiny", "Becomes", "Huge", "£1 → £1M business"],
+        ["Huge", "Shrinks to", "Tiny", "100kg → 60kg journey"],
+        ["Simple", "Transforms", "Complex", "Sketch → Empire"],
+        ["Unexpected", "Creates", "Revolution", "Tweet → Movement"]
+      ]
+    }
+  ]
+}

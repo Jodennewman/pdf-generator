@@ -1,0 +1,107 @@
+{
+  "moduleInfo": {
+    "moduleNumber": "02.01",
+    "sectionName": "Posting & Scheduling",
+    "moduleTitle": "Posting & Scheduling/02 P&S Founder/Community Management Importance"
+  },
+  "theme": {
+    "mode": "light"
+  },
+  "overview": {
+    "quote": "Creators who interact with followers do 100x better than those who completely disengage.",
+    "introText": "Community management isn't just nice-to-have - it's absolutely essential for growth. This module reveals why engaging with your audience transforms casual viewers into dedicated followers and dramatically increases your content's performance."
+  },
+  "keyTerms": [
+    {
+      "term": "COMMUNITY MANAGEMENT",
+      "definition": "Actively engaging with followers through comments, addressing questions, and leading discussions in your content's comment section."
+    },
+    {
+      "term": "COMMENT SECTION CULTIVATION",
+      "definition": "Strategically shaping the tone and direction of discussions by responding to both positive and negative comments."
+    },
+    {
+      "term": "ENGAGEMENT MULTIPLIER",
+      "definition": "The snowball effect where creator responses double comment counts and spark further conversation."
+    },
+    {
+      "term": "AUTHENTICITY SIGNAL",
+      "definition": "Cues that indicate you're a real person who values audience interaction, not just a content pipeline."
+    }
+  ],
+  "actionPlan": [
+    "Reply to your first 5 comments on every post",
+    "Schedule 10 minutes after posting for replies",
+    "Address both positive and negative comments",
+    "Ask questions to encourage further engagement",
+    "Track engagement metrics before/after implementing"
+  ],
+  "takeaways": [
+    {
+      "mainContent": {
+        "title": "The Power of Creator Presence",
+        "text": "When you reply to comments, you double the comment count instantly and spark ongoing conversations. This makes your content appear more engaging to the algorithm and creates a welcoming environment for viewers."
+      },
+      "summaryPoints": [
+        "Your replies double comment counts",
+        "Comments signal algorithm value",
+        "Conversations keep people returning",
+        "Creates community feeling"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "Leading the Conversation",
+        "text": "Responding to negative comments creates a safer space for fans to engage. By calmly addressing criticism, you set the tone and demonstrate confidence, encouraging supporters to join the conversation."
+      },
+      "summaryPoints": [
+        "Neutralize negativity with calm responses",
+        "Create safe space for fans",
+        "Set the tone for your community",
+        "Demonstrate confidence in your content"
+      ],
+      "type": "right"
+    },
+    {
+      "mainContent": {
+        "title": "The 100x Growth Factor",
+        "text": "Creators who consistently engage with followers experience dramatically higher growth rates - up to 100x better performance than those who remain distant. This is a consistent pattern across all successful accounts."
+      },
+      "summaryPoints": [
+        "Engagement directly correlates with growth",
+        "Real data shows 100x performance difference",
+        "No exceptions to this pattern observed",
+        "Applies across all content types"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "Building Repeat Viewers",
+        "text": "Most commenters aren't first-time viewers - they're people who've watched multiple videos. When they see you responding, it signals you're approachable and worth following, converting casual viewers to dedicated fans."
+      },
+      "summaryPoints": [
+        "Commenters are typically repeat viewers",
+        "Responses signal you're approachable",
+        "Unanswered questions deter engagement",
+        "Creates human connection, not just content"
+      ],
+      "type": "right"
+    }
+  ],
+  "proTips": [
+    {
+      "text": "Respond to comments as if talking to a younger sibling - lighthearted but respectful. This keeps your tone consistent even with critics."
+    },
+    {
+      "text": "When outsourcing community management, ensure your representative understands your humor and brand voice perfectly."
+    }
+  ],
+  "finalWords": {
+    "reminder": "Remember...",
+    "emphasis": "Engagement creates community",
+    "description": "The videos grab attention, but your responses transform viewers into fans."
+  },
+  "tables": []
+}

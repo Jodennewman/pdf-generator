@@ -1,0 +1,94 @@
+{
+  "moduleInfo": {
+    "moduleNumber": "03.03",
+    "sectionName": "Advanced Theory and Practices",
+    "moduleTitle": "Advanced Theory and Practices/03 Nuanced Hooks/False Assumption Hook"
+  },
+  "theme": {
+    "mode": "dark"
+  },
+  "overview": {
+    "quote": "So we all know what really happened with Lady Gaga and T-Pain. But what I actually want to talk about first...",
+    "introText": "The False Assumption Hook creates instant FOMO by making viewers feel they've missed crucial information. Learn how to leverage this psychological trigger to boost engagement and drive comments."
+  },
+  "keyTerms": [
+    {
+      "term": "FOMO",
+      "definition": "Fear Of Missing Out - the anxiety that an exciting event is happening elsewhere and you're not part of it."
+    },
+    {
+      "term": "BLUE COMMENTS",
+      "definition": "Comments containing searchable terms that viewers click to find more information, highly valued by algorithms."
+    },
+    {
+      "term": "INFORMATION GAP",
+      "definition": "A psychological technique where you hint at knowledge without revealing it, creating a curiosity that drives engagement."
+    },
+    {
+      "term": "COMMUNITY EXCLUSIVITY",
+      "definition": "The feeling of belonging to an in-group with special knowledge, driving viewer retention and loyalty."
+    }
+  ],
+  "actionPlan": [
+    "Research trending topics in your niche",
+    "Create 3 false assumption hooks to test",
+    "Film a video with an unresolved element",
+    "Monitor comments for questions about the hook",
+    "Follow up with content that builds on questions"
+  ],
+  "takeaways": [
+    {
+      "mainContent": {
+        "title": "The Party Conversation Effect",
+        "text": "False Assumption Hooks create the feeling of walking into a conversation mid-way through. Viewers stay to avoid missing more information."
+      },
+      "summaryPoints": [
+        "Triggers natural social inclusion instincts",
+        "Creates immediate curiosity gap",
+        "Positions you as an insider with knowledge",
+        "Makes viewers afraid to leave"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "Strategic Incompleteness",
+        "text": "The key is to reference but never fully explain the assumed knowledge. This drives viewers to comments and searches, boosting algorithm performance."
+      },
+      "summaryPoints": [
+        "Leave the hook element unresolved",
+        "Acknowledge without explaining",
+        "Drive comment section questions",
+        "Generate valuable 'blue comments'"
+      ],
+      "type": "right"
+    },
+    {
+      "mainContent": {
+        "title": "Three Perfect Sources",
+        "text": "Draw false assumptions from pop culture, your own content universe, or create entirely fictional references with a touch of humor."
+      },
+      "summaryPoints": [
+        "Trending celebrity/news references",
+        "Previous content your followers might know",
+        "Inside jokes with your community",
+        "Tongue-in-cheek fabricated events"
+      ],
+      "type": "left"
+    }
+  ],
+  "proTips": [
+    {
+      "text": "For maximum FOMO, reference your false assumption again mid-video as if it's common knowledge. It reinforces the need to know."
+    },
+    {
+      "text": "Use false assumptions about your niche's influencers - 'After what happened with [influencer name] last week...'"
+    }
+  ],
+  "finalWords": {
+    "reminder": "Remember...",
+    "emphasis": "CURIOSITY",
+    "description": "The unresolved gap drives more engagement than any answer could."
+  },
+  "tables": []
+}

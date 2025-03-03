@@ -1,0 +1,114 @@
+{
+  "moduleInfo": {
+    "moduleNumber": "06.04",
+    "sectionName": "Advanced Theory and Practices",
+    "moduleTitle": "Advanced Theory and Practices/06 Handling a Comment Section/Addressing Information Gaps"
+  },
+  "theme": {
+    "mode": "dark"
+  },
+  "overview": {
+    "quote": "We just want the fun bits of the story, which often means your video will be missing some crucial context or information.",
+    "introText": "Short-form content thrives on brevity, but this often means leaving out details that keen viewers will notice. Learn how to strategically handle these 'information gaps' in the comments to boost engagement while maintaining your credibility."
+  },
+  "keyTerms": [
+    {
+      "term": "INFORMATION GAPS",
+      "definition": "Intentional or accidental omissions in content that create opportunities for audience engagement and clarification."
+    },
+    {
+      "term": "STRATEGIC OMISSION",
+      "definition": "Deliberately leaving out certain details to keep content concise while planning to address them in comments if needed."
+    },
+    {
+      "term": "CLARIFICATION COMMENTING",
+      "definition": "The practice of using comment responses to add context, nuance, and additional information to your content."
+    },
+    {
+      "term": "EXPERTISE SIGNALING",
+      "definition": "Demonstrating deeper knowledge in comments than what appeared in the video to establish authority and credibility."
+    }
+  ],
+  "actionPlan": [
+    "Identify common critique points before posting",
+    "Wait for relevant comments before addressing gaps",
+    "Add exclusive details in your responses",
+    "Acknowledge mistakes authentically when they occur",
+    "Use light humor when admitting to strategic omissions"
+  ],
+  "takeaways": [
+    {
+      "mainContent": {
+        "title": "The Benefit of Brief Content",
+        "text": "Short-form thrives on fun, engaging bits—not comprehensive coverage. Strategic omissions are necessary for engagement, not signs of poor research."
+      },
+      "summaryPoints": [
+        "Brevity drives engagement",
+        "Details can overwhelm in short format",
+        "Selective information creates shareable content"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "Timing Your Clarifications",
+        "text": "Don't pre-emptively address gaps. Wait for comments to emerge, then respond strategically to show your expertise while acknowledging the format limitations."
+      },
+      "summaryPoints": [
+        "Allow discussion to develop naturally",
+        "Respond to established comment threads",
+        "Add value that wasn't in the original content"
+      ],
+      "type": "right"
+    },
+    {
+      "mainContent": {
+        "title": "Handling Factual Errors",
+        "text": "For genuine mistakes, acknowledge them promptly but casually. A simple 'You're right, that was a slip-up' maintains credibility without making it a big deal."
+      },
+      "summaryPoints": [
+        "Admit mistakes without defensiveness",
+        "Use light humor to diffuse tension",
+        "Show you care about accuracy"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "The Expert Response",
+        "text": "When responding to criticisms about omissions, demonstrate even deeper knowledge than the commenter by adding details they missed, positioning yourself as the true expert."
+      },
+      "summaryPoints": [
+        "Acknowledge their point graciously",
+        "Add exclusive information they missed",
+        "Frame omissions as format necessities"
+      ],
+      "type": "right"
+    }
+  ],
+  "proTips": [
+    {
+      "text": "Keep a 'details bank' of cut information ready to deploy in comments—it shows you did thorough research beyond what fit in the video."
+    },
+    {
+      "text": "When someone calls out an omission, thank them for their passion about the topic—it transforms critics into valuable community members."
+    }
+  ],
+  "finalWords": {
+    "reminder": "Remember...",
+    "emphasis": "Your comment section is part of your content.",
+    "description": "Use it to add depth that wouldn't fit in your short-form video."
+  },
+  "tables": [
+    {
+      "title": "Comment Response Framework",
+      "headers": ["Comment Type", "Response Strategy", "Example"],
+      "rows": [
+        ["Missing Context", "Acknowledge + Add Value", "You're right! I also found [extra detail they didn't mention]."],
+        ["Factual Error", "Light Admission", "Oops, good catch! That's embarrassing but you're totally right."],
+        ["Research Criticism", "Format Explanation", "Had to trim 20 min of research into 60 seconds! Here's more..."],
+        ["Technical Correction", "Appreciation + Detail", "Thanks for the correction! I actually cut that explanation because..."]
+      ]
+    }
+  ]
+}

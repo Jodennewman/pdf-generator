@@ -1,6 +1,117 @@
-# PDF Template Generator
+# PDF Generator
 
-This repository contains tools to generate PDFs from HTML templates using JSON data.
+A powerful tool for generating beautiful PDFs from HTML templates using JSON data.
+
+## Project Structure
+
+```
+.
+├── Version4.html              # Main HTML template
+├── html-templates/           # Additional HTML templates for advanced use
+├── template-generator.js     # Core script for generating HTML from JSON
+├── html-to-pdf-puppeteer.js # PDF conversion script
+├── textures/                # Assets for PDF styling
+│   ├── themes/             # Theme-specific textures
+│   └── logos/              # Logo assets
+├── outputs/                 # Generated HTML files
+└── pdfs/                   # Generated PDF files
+```
+
+## Requirements
+
+- Node.js (v14 or higher)
+- npm packages (see package.json)
+
+## Quick Start
+
+1. Install dependencies:
+```bash
+npm install
+```
+
+2. Place your JSON data in the `JSON Modules` directory
+
+3. Run the generator:
+```bash
+node template-generator.js
+```
+
+4. Convert to PDF:
+```bash
+node html-to-pdf-puppeteer.js
+```
+
+## Button Interface
+
+For easier use, we provide a simple HTML interface to access core features:
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PDF Generator Interface</title>
+    <style>
+        .button {
+            padding: 15px 30px;
+            margin: 10px;
+            border: none;
+            border-radius: 5px;
+            background: #264653;
+            color: white;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        .button:hover {
+            background: #2a9d8f;
+        }
+    </style>
+</head>
+<body>
+    <button class="button" onclick="generateHTML()">Generate HTML</button>
+    <button class="button" onclick="convertToPDF()">Convert to PDF</button>
+    <button class="button" onclick="generateAndConvert()">Generate & Convert</button>
+
+    <script>
+        function generateHTML() {
+            fetch('/generate-html', {method: 'POST'});
+        }
+        function convertToPDF() {
+            fetch('/convert-pdf', {method: 'POST'});
+        }
+        function generateAndConvert() {
+            fetch('/generate-and-convert', {method: 'POST'});
+        }
+    </script>
+</body>
+</html>
+```
+
+Save this as `interface.html` and use it to easily trigger PDF generation.
+
+## Advanced Templates
+
+The `html-templates` directory contains additional templates for different use cases:
+- `basic.html`: Simple, clean layout
+- `advanced.html`: Feature-rich template with more styling options
+- `custom.html`: Template for custom styling
+
+To use a different template:
+1. Copy your chosen template to the root directory
+2. Update the template path in `template-generator.js`
+
+## Troubleshooting
+
+1. **Missing textures**: Ensure all required assets are in the `textures` directory
+2. **Path issues**: All paths are relative to the project root
+3. **JSON errors**: Validate your JSON data before generation
+
+## Contributing
+
+Feel free to submit issues and enhancement requests!
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## System Requirements
 
@@ -12,18 +123,6 @@ This repository contains tools to generate PDFs from HTML templates using JSON d
    node --version
    npm --version
    ```
-
-## Project Structure
-
-```
-.
-├── Version4.html          # Original HTML template
-├── template-generator.js  # Script to generate HTML from JSON
-├── html-to-pdf-puppeteer.js # Script to convert HTML to PDF
-├── json/                 # Directory for JSON input files
-├── outputs/              # Generated HTML files
-└── pdfs/                # Final PDF outputs
-```
 
 ## Workflow
 

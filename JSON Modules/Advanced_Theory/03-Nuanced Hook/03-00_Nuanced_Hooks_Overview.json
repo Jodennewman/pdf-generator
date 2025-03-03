@@ -1,0 +1,126 @@
+{
+  "moduleInfo": {
+    "moduleNumber": "03.00",
+    "sectionName": "Advanced Theory and Practices",
+    "moduleTitle": "Advanced Theory and Practices/03 Nuanced Hooks/Module Overview"
+  },
+  "theme": {
+    "mode": "dark"
+  },
+  "overview": {
+    "quote": "Hook templates give you a fish; hook structures teach you how to fish for the rest of your career.",
+    "introText": "Master the five psychological hook structures that will consistently stop the scroll, spark engagement, and drive views regardless of platform changes or content trends."
+  },
+  "keyTerms": [
+    {
+      "term": "HOOK PSYCHOLOGY",
+      "definition": "The underlying mental triggers that compel viewers to stop scrolling and engage with content, regardless of platform or trends."
+    },
+    {
+      "term": "HOOK-FIRST SCRIPTING",
+      "definition": "Building your entire content around a strategic hook rather than adding it as an afterthought, ensuring coherent delivery."
+    },
+    {
+      "term": "ENGAGEMENT TRIGGERS",
+      "definition": "Specific psychological mechanisms (contrast, FOMO, curiosity, controversy, urgency) that drive viewer interaction and retention."
+    },
+    {
+      "term": "ALGORITHMIC ALIGNMENT",
+      "definition": "Creating hooks that naturally generate the engagement signals platforms reward, like comments, shares, and watch time."
+    },
+    {
+      "term": "PATTERN INTERRUPTION",
+      "definition": "Breaking expected content patterns to capture attention in oversaturated feeds and prevent viewer habituation."
+    }
+  ],
+  "actionPlan": [
+    "Audit your recent content for hook effectiveness",
+    "Create a hook structure library for your niche",
+    "Test each structure across 5 different topics",
+    "Monitor which structure works best for your audience",
+    "Combine two structures for maximum impact"
+  ],
+  "takeaways": [
+    {
+      "mainContent": {
+        "title": "Beyond Templates",
+        "text": "Effective hooks aren't about specific words or phrases but about tapping into timeless psychological triggers that make viewers stop and engage."
+      },
+      "summaryPoints": [
+        "Target psychological patterns not trendy phrases",
+        "Focus on human curiosity drivers",
+        "Develop adaptable hook frameworks",
+        "Create hooks that work across platforms"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "The 80/20 Hook Rule",
+        "text": "Your hook is responsible for 80% of your video's success. It's the only element guaranteed to be seen by 100% of potential viewers."
+      },
+      "summaryPoints": [
+        "Spend 30% of creation time on your hook",
+        "Test hooks independently from content",
+        "Optimize hook timing (3-5 seconds maximum)",
+        "A/B test hook structures systematically"
+      ],
+      "type": "right"
+    },
+    {
+      "mainContent": {
+        "title": "The Five Power Structures",
+        "text": "Each hook structure targets a different psychological trigger: Big/Small (contrast), False Assumption (FOMO), Impossible Question (curiosity), Contrarian Statement (debate), Breaking News (urgency)."
+      },
+      "summaryPoints": [
+        "Match hook structure to content purpose",
+        "Rotate structures to prevent predictability",
+        "Personalize structures to your voice",
+        "Combine structures for enhanced effect"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "Hook-First Content Design",
+        "text": "Start with your hook structure, then build your entire script to deliver on the hook's promise. This creates coherence viewers subconsciously appreciate."
+      },
+      "summaryPoints": [
+        "Select hook before finalizing content",
+        "Structure narrative around hook promise",
+        "Ensure payoff matches hook expectation",
+        "Maintain hook energy throughout content"
+      ],
+      "type": "right"
+    }
+  ],
+  "proTips": [
+    {
+      "text": "The first 7 words of your hook are critical - frontload the most provocative/interesting element rather than building up to it."
+    },
+    {
+      "text": "For maximum impact, match your vocal delivery, facial expression, and hook structure. A Breaking News hook needs urgency in your voice."
+    },
+    {
+      "text": "Create a 'hook swipe file' where you save screenshots of hooks that made you stop scrolling, organized by structure type."
+    }
+  ],
+  "finalWords": {
+    "reminder": "Remember...",
+    "emphasis": "PSYCHOLOGY",
+    "description": "Trends fade, templates get stale, but human psychology remains constant."
+  },
+  "tables": [
+    {
+      "title": "Hook Structure Selection Guide",
+      "headers": ["Hook Type", "Best For", "Engagement Type", "Caution"],
+      "rows": [
+        ["Big/Small", "Stories/Journeys", "Curiosity", "Needs resolution"],
+        ["False Assumption", "Community", "Comments", "Can frustrate"],
+        ["Impossible Question", "Education", "Thought", "Avoid misleading"],
+        ["Contrarian", "Opinion", "Debate", "Stay playful"],
+        ["Breaking News", "Updates", "Urgency", "Verify facts"]
+      ]
+    }
+  ]
+}

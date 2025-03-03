@@ -1,0 +1,154 @@
+{
+  "moduleInfo": {
+    "moduleNumber": "02.00",
+    "sectionName": "Posting & Scheduling",
+    "moduleTitle": "Posting & Scheduling/02 P&S Founder/Complete Module"
+  },
+  "theme": {
+    "mode": "light"
+  },
+  "overview": {
+    "quote": "Creators who actively engage with their audience do 100x better than those who stay silent.",
+    "introText": "As a busy founder, you need to know where to focus your limited time for maximum impact. This module cuts through social media myths and reveals what truly matters for growth: meaningful community engagement, quality content, and strategic communication."
+  },
+  "keyTerms": [
+    {
+      "term": "COMMUNITY MANAGEMENT",
+      "definition": "Actively engaging with followers through comments, addressing questions, and leading discussions in your content's comment section."
+    },
+    {
+      "term": "MERITOCRATIC CONTENT",
+      "definition": "Content judged primarily on quality and engagement metrics rather than posting tactics or profile authority."
+    },
+    {
+      "term": "CAPTION HOOK",
+      "definition": "Text that creates curiosity or FOMO as a last-resort hook before a viewer scrolls past your content."
+    },
+    {
+      "term": "PUBESCENT MINDSET",
+      "definition": "Approaching comment replies assuming commenters are young, helping maintain appropriate levity and emotional distance."
+    },
+    {
+      "term": "ENGAGEMENT MULTIPLIER",
+      "definition": "The snowball effect where creator responses double comment counts and spark further conversation."
+    }
+  ],
+  "actionPlan": [
+    "Reserve 10 minutes after posting for comment replies",
+    "Reply to first 5 comments on every new video",
+    "Focus 80% of effort on content quality, not posting tactics",
+    "Create question-generating captions that build curiosity",
+    "Apply the 'younger sibling' mindset to all interactions",
+    "Track engagement metrics before/after implementing"
+  ],
+  "takeaways": [
+    {
+      "mainContent": {
+        "title": "The 100x Growth Factor",
+        "text": "Consistently engaging with followers leads to dramatically higher growth rates - up to 100x better performance. When you reply, you double comment counts instantly, signal authenticity, and create a community that keeps people returning."
+      },
+      "summaryPoints": [
+        "Creator engagement = exponential growth",
+        "Your replies double visible engagement metrics",
+        "Responses convert casual viewers to fans",
+        "No exceptions to this pattern observed"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "Quality Trumps Tactics",
+        "text": "Posting time, hashtags, and frequency matter far less than content quality. A brilliant video posted at midnight with no hashtags will still outperform mediocre content with 'perfect' posting tactics every time."
+      },
+      "summaryPoints": [
+        "Content quality is the primary success factor",
+        "Strong videos perform well across platforms",
+        "Tactics contribute minimally to results",
+        "Time is better spent improving fundamentals"
+      ],
+      "type": "right"
+    },
+    {
+      "mainContent": {
+        "title": "Strategic Captions",
+        "text": "Captions serve as the final hook before someone scrolls past. Create curiosity by referencing intriguing moments later in your video without revealing conclusions. Show personality and spark questions rather than providing answers."
+      },
+      "summaryPoints": [
+        "Never conclude or summarize in captions",
+        "Create curiosity gaps that need filling",
+        "Reference later video moments to create FOMO",
+        "Use captions to showcase personality"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "The Art of Comment Replies",
+        "text": "Respond to both positive and negative comments with confidence and personality. Use the 'younger sibling' approach to maintain appropriate levity, avoiding both generic responses and emotional overreactions."
+      },
+      "summaryPoints": [
+        "Mix of response types shows authenticity",
+        "Ask questions to extend conversations",
+        "Inject personality even in brief replies",
+        "Stay above petty criticism with light tone"
+      ],
+      "type": "right"
+    },
+    {
+      "mainContent": {
+        "title": "Leading the Conversation",
+        "text": "Your responses set the tone for your entire community. By addressing negative comments with reasonable, calm responses, you create a safe space for supporters and demonstrate the culture you want to foster."
+      },
+      "summaryPoints": [
+        "Responses shape community culture",
+        "Neutralize negativity with calm replies",
+        "Create safe space for supporter engagement",
+        "Your tone becomes community standard"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "Sustainable Growth Systems",
+        "text": "For busy founders, building consistent engagement habits is key. Block specific time for community management, develop reply templates with your unique voice, and remember that this investment delivers the highest ROI of any social strategy."
+      },
+      "summaryPoints": [
+        "Schedule non-negotiable engagement blocks",
+        "Create personal-sounding reply templates",
+        "Consider delegating with clear voice guidelines",
+        "Measure engagement impact on growth"
+      ],
+      "type": "right"
+    }
+  ],
+  "proTips": [
+    {
+      "text": "Respond to comments as if talking to a younger sibling - lighthearted but respectful. This keeps your tone consistent even with critics."
+    },
+    {
+      "text": "If outsourcing community management, have your assistant create a document of 'responses you would never make' to preserve voice."
+    },
+    {
+      "text": "YouTube is much more search-focused than other platforms, so SEO principles matter more there than on TikTok or Instagram."
+    }
+  ],
+  "finalWords": {
+    "reminder": "Remember...",
+    "emphasis": "Your presence matters more than perfection",
+    "description": "Great content attracts views, but your engagement transforms viewers into fans."
+  },
+  "tables": [
+    {
+      "title": "Founder Focus: Time Impact Analysis",
+      "headers": ["Activity", "Perceived Value", "Actual Impact", "Time Investment"],
+      "rows": [
+        ["Hashtag Research", "High", "Minimal", "Low"],
+        ["Posting Time Optimization", "High", "Low", "Medium"],
+        ["Content Quality", "Medium", "Very High", "High"],
+        ["Community Engagement", "Low", "Extremely High", "Medium"],
+        ["Caption Crafting", "Low", "Medium", "Low"],
+        ["Trend-Chasing", "High", "Low/Temporary", "High"]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "moduleInfo": {
+    "moduleNumber": "06.03",
+    "sectionName": "Advanced Theory and Practices",
+    "moduleTitle": "Advanced Theory and Practices/06 Handling a Comment Section/Managing Debates in the Comments"
+  },
+  "theme": {
+    "mode": "light"
+  },
+  "overview": {
+    "quote": "Picture your comment section as a gathering at your house—you've invited a bunch of people over to hang out.",
+    "introText": "When your content sparks debates in the comments, you have a unique opportunity to guide the conversation while boosting engagement. Learning when to chime in and when to step back is crucial for healthy community development."
+  },
+  "keyTerms": [
+    {
+      "term": "ENGAGEMENT CATALYST",
+      "definition": "Content that naturally sparks discussion and debate, driving algorithm performance through comment activity."
+    },
+    {
+      "term": "CONVERSATION STEERING",
+      "definition": "The subtle art of guiding comment discussions in productive directions without taking strong positions."
+    },
+    {
+      "term": "NEUTRAL POSITIONING",
+      "definition": "Maintaining a balanced stance in debates to remain relatable to all audience segments while discussions unfold."
+    },
+    {
+      "term": "COMMENT ECONOMY",
+      "definition": "The ecosystem of interactions in your comment section that drives engagement metrics and content performance."
+    }
+  ],
+  "actionPlan": [
+    "Identify healthy vs. toxic debate patterns",
+    "Add context to thoughtful comments only",
+    "Remain neutral when responding to opposing views",
+    "Step away when discussions become circular",
+    "Monitor but don't micromanage heated exchanges"
+  ],
+  "takeaways": [
+    {
+      "mainContent": {
+        "title": "The Host Mindset",
+        "text": "Think of your comment section as a gathering at your home. As the host, you can guide conversations but shouldn't control every interaction between guests."
+      },
+      "summaryPoints": [
+        "You're a facilitator, not a referee",
+        "Set the tone but allow natural flow",
+        "Create a welcoming environment for all views"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "Strategic Involvement",
+        "text": "For respectful debates, add thoughtful context to steer conversations productively. For heated exchanges, selective engagement or stepping back may be more effective."
+      },
+      "summaryPoints": [
+        "Respond to civil, thoughtful comments",
+        "Add value through additional context",
+        "Limit involvement in circular arguments"
+      ],
+      "type": "right"
+    },
+    {
+      "mainContent": {
+        "title": "Maintaining Neutrality",
+        "text": "Stay neutral in topic debates to avoid alienating segments of your audience. Your role is to facilitate discussion, not win arguments or take sides."
+      },
+      "summaryPoints": [
+        "Present balanced perspectives",
+        "Acknowledge valid points from both sides",
+        "Focus on fostering understanding"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "The Engagement Benefit",
+        "text": "Healthy debates dramatically increase engagement metrics. As long as discussions remain civil, the algorithm benefits of active comment sections far outweigh potential drawbacks."
+      },
+      "summaryPoints": [
+        "Debates drive algorithm performance",
+        "Increased watch time from comment readers",
+        "Higher retention from invested viewers"
+      ],
+      "type": "right"
+    }
+  ],
+  "proTips": [
+    {
+      "text": "If debate gets overly technical, simplify with a real-world analogy that both sides can relate to—this resets the conversation tone."
+    },
+    {
+      "text": "Watch for 'silent majority' viewers reading comments—craft responses that address their curiosity, not just the vocal debaters."
+    }
+  ],
+  "finalWords": {
+    "reminder": "Remember...",
+    "emphasis": "Let the discussion flow, but guide its direction.",
+    "description": "You're cultivating a community garden, not controlling every plant."
+  },
+  "tables": []
+}

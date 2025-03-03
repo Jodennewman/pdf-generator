@@ -1,0 +1,115 @@
+{
+  "moduleInfo": {
+    "moduleNumber": "03.02",
+    "sectionName": "Advanced Theory and Practices",
+    "moduleTitle": "Advanced Theory and Practices/03 PR Shaping your Narrative/Creating a Brand Guide"
+  },
+  "theme": {
+    "mode": "dark"
+  },
+  "overview": {
+    "quote": "Write out your do's and don'ts as if you were explaining them to a martian child.",
+    "introText": "Even if you're flying solo, creating a brand guide helps maintain consistency, prevents damaging misfires, and keeps you aligned with your long-term vision as you grow."
+  },
+  "keyTerms": [
+    {
+      "term": "BRAND GUIDE",
+      "definition": "A document outlining how you want to come across and what you stand for, serving as your content compass."
+    },
+    {
+      "term": "TONE OF VOICE",
+      "definition": "The distinctive attitude and personality that comes through in your communication style."
+    },
+    {
+      "term": "CONTENT BOUNDARIES",
+      "definition": "Clear lines you won't cross in your content, even when tempted by views or deals."
+    },
+    {
+      "term": "BRAND FUNDAMENTALS",
+      "definition": "The core principles and values that define your content creation approach and public persona."
+    }
+  ],
+  "actionPlan": [
+    "Answer the key identity questions",
+    "Create your 'does' and 'doesn't' lists",
+    "Define your unique tone of voice",
+    "Establish your partnership guidelines",
+    "Review and refine your guide monthly"
+  ],
+  "takeaways": [
+    {
+      "mainContent": {
+        "title": "The Power of Questions",
+        "text": "Start with fundamental questions: Who are you? What do you care about most? What are you ultimately trying to achieve? What problems does your audience face?"
+      },
+      "summaryPoints": [
+        "Self-questioning builds clarity",
+        "Your answers reveal your true north",
+        "Revisit quarterly as you evolve"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "The Does & Doesn'ts Framework",
+        "text": "Create clear rules using simple language. 'I do support X' and 'I don't engage with Y' gives you instant decision-making power when opportunities arise."
+      },
+      "summaryPoints": [
+        "Simple rules prevent complex dilemmas",
+        "Write it down before temptation strikes",
+        "Update as you learn and grow"
+      ],
+      "type": "right"
+    },
+    {
+      "mainContent": {
+        "title": "Defending Your Boundaries",
+        "text": "When your audience grows, opportunities and money will test your principles. Having pre-established boundaries helps you make consistent decisions under pressure."
+      },
+      "summaryPoints": [
+        "Money makes principles foggy",
+        "Written guidelines provide clarity",
+        "Consistency builds audience trust"
+      ],
+      "type": "left"
+    },
+    {
+      "mainContent": {
+        "title": "Brand Evolution Planning",
+        "text": "Consider how your social media presence connects to your three-year vision. How will other platforms and mainstream media fit into your growth strategy?"
+      },
+      "summaryPoints": [
+        "Today's decisions affect tomorrow's options",
+        "Cross-platform consistency matters",
+        "Plan for expansion opportunities"
+      ],
+      "type": "right"
+    }
+  ],
+  "proTips": [
+    {
+      "text": "Your most profitable brand deals will come from alignment with your values, not from taking whatever pays most. Patience pays."
+    },
+    {
+      "text": "Create a 'temptation document' listing offers you've declined and why - it builds decision-making muscle for bigger opportunities."
+    }
+  ],
+  "finalWords": {
+    "reminder": "Remember...",
+    "emphasis": "Your brand guide isn't permanent—it evolves as you do.",
+    "description": "Review it quarterly to ensure it still reflects who you are becoming."
+  },
+  "tables": [
+    {
+      "title": "Brand Guide Essential Questions",
+      "headers": ["Category", "Questions to Answer"],
+      "rows": [
+        ["Identity", "Who are you? What led you here?"],
+        ["Values", "What do you care about most?"],
+        ["Goals", "What are you ultimately trying to achieve?"],
+        ["Audience", "What specific problems do they face?"],
+        ["Future", "How will your brand evolve in 3 years?"]
+      ]
+    }
+  ]
+}
