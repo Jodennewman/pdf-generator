@@ -1,9 +1,6 @@
 const express = require('express');
-const { exec } = require('child_process');
+const { spawn } = require('child_process');
 const path = require('path');
-const util = require('util');
-
-const execAsync = util.promisify(exec);
 
 const app = express();
 app.use(express.json());
@@ -22,6 +19,40 @@ const asyncHandler = (fn) => (req, res, next) => {
     Promise.resolve(fn(req, res, next)).catch(next);
 };
 
+// Execute command and handle output streams
+function executeCommand(command) {
+    return new Promise((resolve, reject) => {
+        const [cmd, ...args] = command.split(' ');
+        const process = spawn(cmd, args);
+        let output = '';
+        let errorOutput = '';
+
+        process.stdout.on('data', (data) => {
+            const text = data.toString();
+            output += text;
+            console.log(text);
+        });
+
+        process.stderr.on('data', (data) => {
+            const text = data.toString();
+            errorOutput += text;
+            console.error(text);
+        });
+
+        process.on('close', (code) => {
+            if (code !== 0) {
+                reject(new Error(`Process exited with code ${code}\n${errorOutput}`));
+            } else {
+                resolve({ output, errorOutput });
+            }
+        });
+
+        process.on('error', (err) => {
+            reject(err);
+        });
+    });
+}
+
 // Serve the interface
 app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname, 'interface.html'));
@@ -29,25 +60,20 @@ app.get('/', (req, res) => {
 
 // Generate HTML files
 app.post('/generate-html', asyncHandler(async (req, res) => {
-    const { stdout, stderr } = await execAsync('node template-generator.js');
-    console.log('Generation output:', stdout);
-    if (stderr) console.error('Generation errors:', stderr);
+    await executeCommand('node template-generator.js');
     res.json({ message: 'HTML files generated successfully' });
 }));
 
 // Convert HTML to PDF
 app.post('/convert-pdf', asyncHandler(async (req, res) => {
-    const { stdout, stderr } = await execAsync('node html-to-pdf-puppeteer.js');
-    console.log('Conversion output:', stdout);
-    if (stderr) console.error('Conversion errors:', stderr);
+    await executeCommand('node html-to-pdf-puppeteer.js');
     res.json({ message: 'PDF conversion completed successfully' });
 }));
 
 // Generate and Convert
 app.post('/generate-and-convert', asyncHandler(async (req, res) => {
-    const { stdout, stderr } = await execAsync('node template-generator.js && node html-to-pdf-puppeteer.js');
-    console.log('Generation and conversion output:', stdout);
-    if (stderr) console.error('Generation and conversion errors:', stderr);
+    await executeCommand('node template-generator.js');
+    await executeCommand('node html-to-pdf-puppeteer.js');
     res.json({ message: 'Generation and conversion completed successfully' });
 }));
 
