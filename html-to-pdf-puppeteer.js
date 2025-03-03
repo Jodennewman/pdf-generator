@@ -32,6 +32,9 @@ function getAllHtmlFiles(dir) {
   const files = fs.readdirSync(dir);
 
   for (const file of files) {
+    // Skip files starting with "._"
+    if (file.startsWith('._')) continue;
+    
     const fullPath = path.join(dir, file);
     const stat = fs.statSync(fullPath);
     if (stat.isDirectory()) {
